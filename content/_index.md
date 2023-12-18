@@ -1,13 +1,15 @@
-# this is where i store all my ideas
+## who am i (no particular order)
 
-i have been around just long enough to realize i have forgotten many good ideas
+1. i am a **programmer** interested in [useless programming languages](https://www.youtube.com/watch?v=iSmkqocn0oQ&pp=ygUPaGFza2VsbCB1c2VsZXNz) (who actually wrote his own useless programming language). 
+2. a **math hobbyist** interested in "useless" math, though a lot of "useless" math is applied to change the world a few years later (see: [group based cryptography](https://en.wikipedia.org/wiki/Group-based_cryptography) for one example).     
+3. **entrepreneur**, see [my linkedin](https://www.linkedin.com/in/rohan-ganapavarapu-5115041ba/), [edtran](https://edtran.com), [neuraltap.ai](https://neuraltap.ai)
+4. **hacker** at heart
 
-## who am i
+(oh and i happen to be a high school senior @ [the athenian school](https://www.athenian.org/about)) 
 
-1. someone who is self-deluded enough to think they have good ideas and technically savvy enough to self host my own blog (i.e half the internet in 1994). 
+## research interests
 
-2. i am a programmer interested in [useless programming languages](https://www.youtube.com/watch?v=iSmkqocn0oQ&pp=ygUPaGFza2VsbCB1c2VsZXNz) (who actually wrote his own useless programming language). 
-
-3. a math hobbyist interested in "useless" math, though a lot of "useless" math is applied to change the world a few years later (see: [group based cryptography](https://en.wikipedia.org/wiki/Group-based_cryptography) for one example). 
-
-4. a hacker in the RMS free-as-in-speech way and not the i-am-going-to-social-engineer-you-with-terrible-opsec-and-go-to-prison kind of way
+- programming language theory (type theory, formal semantics, and compuler construction)
+- formal verifications
+- satisfiability modulo theories (smt)
+- funcitonal programming (fp)
