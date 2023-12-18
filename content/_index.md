@@ -9,7 +9,7 @@
 
 ## research interests
 
-- programming language theory (type theory, formal semantics, and compuler construction)
+- programming language theory (type theory, formal semantics, and compiler construction)
 - formal verifications
 - satisfiability modulo theories (smt)
-- funcitonal programming (fp)
+- functional programming (fp)
