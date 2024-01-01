@@ -5,7 +5,7 @@
 3. **entrepreneur**, see [my linkedin](https://www.linkedin.com/in/rohan-ganapavarapu-5115041ba/), [edtran](https://edtran.com), [neuraltap.ai](https://neuraltap.ai)
 4. **hacker** at heart
 
-(oh and i happen to be a high school senior @ [the athenian school](https://www.athenian.org/about)) 
+(i am also a high school senior @ [the athenian school](https://www.athenian.org/about)) 
 
 ## research interests
 
