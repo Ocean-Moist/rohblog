@@ -34,7 +34,7 @@ These Olympiads condition kids into thinking that all problems are well defined 
 **I don't like only solving problems, I like creating them to.**
 
 ### But I'm not creative
-Unequivocally, you are the best at being you. You have unique expriences. Apply those to eachother and use your background as a super power to unloack creativty. What can only someone with your specific background create?
+Unequivocally, you are the best at being you. You have unique expriences. Apply those to eachother and use your background as a super power to unlock creativty. What can only someone with your specific background create?
 
 ### tl;dr
 people smarter than you have a shortage of motivation and  shortage of problems to work on. 
