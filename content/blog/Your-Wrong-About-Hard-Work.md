@@ -1,4 +1,7 @@
-﻿+++ title = "Your Wrong About Hard Work" date = "2024-1-31T19:30:33-08:00"
+﻿+++
+title = "Your Wrong About Hard Work" 
+date = "2024-1-31T19:30:33-08:00"
++++
 ## The Addictive Idea of "Grinding"
 There is this idea, often sold to young men, that "you just need to choose to be successful," that success is only a function of how much suffering you can put yourself through. The reason this is addictive is that it lowers the perceived bar to peoples dream life. 
 
