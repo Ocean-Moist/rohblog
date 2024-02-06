@@ -1,4 +1,8 @@
-﻿+++ title = "Why ML is DOOMED! (Formal Verification)" date = "2024-1-31T19:30:33-08:00"
+﻿+++
+title = "Why ML is DOOMED! (Formal Verification)" 
+date = "2024-1-31T19:30:33-08:00" 
++++
+
 A lot of people are into "AI/ML", and that **scares me**, and not only because half of them don't know what it is (see: non-technical cofounder of buzzword filled tech startup). You basically chuck a bunch of data into a black hole and it spits out this relatively massive file of weights that serves as an oracle for everything (ML-speak for random numbers intuited by dark magic [gradient descent]). 
 
 Why does this scare me? Well it is because we trust our lives to these things **which exist apart from any self-consistent systems of logic** (at least one intuitable by humans). We don't know what Tesla's autopilot is "thinking". This is why LLM models are notoriously bad at math. My suspicion is even GPT-4 is using some sort of formally verified backend to do math, as GPT-3 was terrible at it. Basically just asking "Hey GPT parse this human input and generate an expression in the syntax of **Wolfram Alpha**". 
@@ -35,11 +39,11 @@ Take a banking app. I want to find an `x` such that `f(x)` is me having a millio
 So how do you find such an `x`? There is something called [SMT solvers](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories) that can do this for well defined systems of logic. They are heavily used in concolic testing and I think there is a **distinct asymmetric advantage** to applying this tech (and other formal methods) to cybersec and other forms of innovation. (this is the real millenium problem)
 
 ### What are effects (why a CLI app only does stuff that "lowkey" looks like outputs) 
-In reality all programs are only useful **insofar as it has effects** (on of SPJ's point in the haskell is useless discussion). **Every interaction**, all IO **needs effects**, which is why haskell wraps every bit of IO in monads. Roc solves this problem differently as I mentioned above. These effects can programmatically represented as state (types or something) and then turning them into effects is simple.  For example, take a Roc program embedded in a procedural lang (basically ONLY effects, maybe not even turing complete). 
+In reality all programs are only useful **insofar as it has effects** (SPJ's point in the haskell is useless discussion). **Every interaction**, all IO **needs effects**, which is why haskell wraps every bit of IO in monads. Roc solves this problem differently as I mentioned above. These effects can programmatically represented as state (types or something) and then turning them into effects is simple.  For example, take a Roc program embedded in a procedural lang (basically ONLY effects, maybe not even turing complete). 
 
 Take side-effect ridden input (stdin) and pass it off to Roc -> Roc pure, easily testable, function -> Take Roc output and do effects strongly correlated with Roc output.   
 
-**Roc never does IO (effects)**, the environment handles that, but the business logic is done in Roc.
+**Roc never does IO (effects)**, the environment handles that, but the business logic is done in Roc. I also want to mention that Roc also can handle IO, but I think this use case is much cooler. 
 
 ### tl:dr My next big project 
 Concolic testing and formal methods in [Roc](https://www.roc-lang.org/). 
