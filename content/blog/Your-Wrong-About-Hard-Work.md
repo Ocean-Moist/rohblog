@@ -1,5 +1,5 @@
 ﻿+++
-title = "Your Wrong About Hard Work" 
+title = "You're Wrong About Hard Work" 
 date = "2024-1-31T19:30:33-08:00"
 +++
 ## The Addictive Idea of "Grinding"
