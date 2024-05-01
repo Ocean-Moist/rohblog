@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tic Tac Toe</title>
+<style>
+  body {
+    background-image: url('https://www.cameronsworld.net/img/content/33/bg.png');
+    background-size: cover;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .game-board {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-gap: 2px;
+  }
+  .cell {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    cursor: pointer;
+  }
+  .cross {
+    background: url('https://www.cameronsworld.net/img/content/2/28.gif') no-repeat center center;
+    background-size: cover;
+  }
+  .circle {
+    background: url('https://www.cameronsworld.net/img/content/4/14.gif') no-repeat center center;
+    background-size: cover;
+  }
+</style>
+</head>
+<body>
+
+<div id="user-input">
+  <select id="existingPlayer1">
+    <option value="">Choose Existing Player 1</option>
+  </select>
+  <select id="existingPlayer2">
+    <option value="">Choose Existing Player 2</option>
+  </select>
+  <input type="text" id="newPlayers" placeholder="Enter New Player Names (comma-separated)">
+  <button onclick="startGame()">Start Game</button>
+  <button onclick="displayRandomGif()">Display Random GIF</button>
+</div>
+
+<div id="scoreboard" style="display:none;">
+  <div id="player-scores"></div>
+</div>
+
+<div class="game-board" id="game-board" style="display:none;">
+  <div class="cell" id="cell0"></div>
+  <div class="cell" id="cell1"></div>
+  <div class="cell" id="cell2"></div>
+  <div class="cell" id="cell3"></div>
+  <div class="cell" id="cell4"></div>
+  <div class="cell" id="cell5"></div>
+  <div class="cell" id="cell6"></div>
+  <div class="cell" id="cell7"></div>
+  <div class="cell" id="cell8"></div>
+</div>
+
+<div id="leaderboard" >
+  <h2>Leaderboard</h2>
+  <div id="leaderboard-scores"></div>
+</div>
+
+<div id="random-gif-container"></div>
+<div id="spinning-star"><img src="https://www.cameronsworld.net/img/content/1/16.gif" alt=""></div>
+<div id="flaming-skull"><img src="https://www.cameronsworld.net/img/content/5/17.gif" alt=""></div>
+<div id="purple-dragon"><img src="https://www.cameronsworld.net/img/content/6/3.gif" alt=""></div>
+<div id="purple-rose"><img src="https://www.cameronsworld.net/img/content/6/10.gif" alt=""></div>
+<div id="sparkling-heart"><img src="https://www.cameronsworld.net/img/content/8/48.gif" alt=""></div>
+
+<script>
+  const board = document.getElementById('game-board');
+  const cells = document.querySelectorAll('.cell');
+  let currentPlayer = 'X';
+  let players = [];
+  let playerScores = {};
+
+  function startGame() {
+    const existingPlayer1Select = document.getElementById('existingPlayer1');
+    const existingPlayer2Select = document.getElementById('existingPlayer2');
+    const newPlayersInput = document.getElementById('newPlayers').value;
+    if (newPlayersInput) {
+      players = newPlayersInput.split(',').map(name => name.trim());
+    } else {
+      players.push(existingPlayer1Select.value);
+      players.push(existingPlayer2Select.value);
+    }
+    loadScores();
+    document.getElementById('user-input').style.display = 'none';
+    document.getElementById('scoreboard').style.display = 'block';
+    document.getElementById('game-board').style.display = 'grid';
+    updateScoreboard();
+displayLeaderboard();
+		 displayRandomGif();
+	  }
+
+  function loadScores() {
+    players.forEach(player => {
+      playerScores[player] = parseInt(localStorage.getItem(player)) || 0;
+    });
+  }
+
+  function saveScores() {
+    players.forEach(player => {
+      localStorage.setItem(player, playerScores[player]);
+    });
+  }
+
+  function updateScoreboard() {
+    const playerScoresDiv = document.getElementById('player-scores');
+    playerScoresDiv.innerHTML = '';
+    players.forEach(player => {
+      const scoreDiv = document.createElement('div');
+      scoreDiv.textContent = `${player}: ${playerScores[player]}`;
+      playerScoresDiv.appendChild(scoreDiv);
+    });
+  }
+
+  function switchPlayers() {
+    currentPlayer = currentPlayer === 'X' ? 'O' : 'X';
+  }
+
+  function checkWin() {
+    const lines = [
+      [0, 1, 2],
+      [3, 4, 5],
+      [6, 7, 8],
+      [0, 3, 6],
+      [1, 4, 7],
+      [2, 5, 8],
+      [0, 4, 8],
+      [2, 4, 6]
+    ];
+    return lines.some(line => {
+      const [a, b, c] = line;
+      return cells[a].textContent && cells[a].textContent === cells[b].textContent && cells[a].textContent === cells[c].textContent;
+    });
+  }
+
+  function checkDraw() {
+    return [...cells].every(cell => cell.textContent);
+  }
+
+  function resetGame() {
+    cells.forEach(cell => {
+      cell.textContent = '';
+      cell.classList.remove('cross', 'circle');
+    });
+    switchPlayers();
+    saveScores();
+  }
+
+  cells.forEach(cell => {
+    cell.addEventListener('click', () => {
+      if (!cell.textContent) {
+        cell.textContent = currentPlayer;
+        cell.classList.add(currentPlayer === 'X' ? 'cross' : 'circle');
+        if (checkWin()) {
+          playerScores[players[currentPlayer === 'X' ? 0 : 1]]++;
+          updateScoreboard();
+          alert(`Player ${players[currentPlayer === 'X' ? 0 : 1]} wins!\nScore: ${players[0]}: ${playerScores[players[0]]}, ${players[1]}: ${playerScores[players[1]]}`);
+          resetGame();
+        } else if (checkDraw()) {
+          alert("It's a draw!");
+          resetGame();
+        } else {
+          switchPlayers();
+        }
+      }
+    });
+  });
+
+  // Load existing players from localStorage
+  window.addEventListener('DOMContentLoaded', () => {
+    const existingPlayer1Select = document.getElementById('existingPlayer1');
+    const existingPlayer2Select = document.getElementById('existingPlayer2');
+    Object.keys(localStorage).forEach(player => {
+      const option = document.createElement('option');
+      option.value = player;
+      option.textContent = player;
+      existingPlayer1Select.appendChild(option.cloneNode(true));
+      existingPlayer2Select.appendChild(option.cloneNode(true));
+    });
+  });
+
+  function displayRandomGif() {
+    const randomNum = Math.floor(Math.random() * 145) + 1;
+    const gifUrl = `https://coolgifs.neocities.org/gifs/${randomNum}.gif`;
+    const gifContainer = document.getElementById('random-gif-container');
+    gifContainer.innerHTML = `<img src="${gifUrl}" alt="Random GIF">`;
+  }
+
+	  function displayLeaderboard() {
+    const leaderboardDiv = document.getElementById('leaderboard-scores');
+    leaderboardDiv.innerHTML = '';
+    const sortedPlayers = Object.keys(playerScores).sort((a, b) => playerScores[b] - playerScores[a]);
+    sortedPlayers.forEach(player => {
+      const scoreDiv = document.createElement('div');
+      scoreDiv.textContent = `${player}: ${playerScores[player]}`;
+      leaderboardDiv.appendChild(scoreDiv);
+    });
+    document.getElementById('leaderboard').style.display = 'block';
+  }
+</script>
+
+</body>
+</html>
+
