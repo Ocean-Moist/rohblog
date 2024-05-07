@@ -6,7 +6,7 @@ date = "2024-2-1T11:13"
 ### The moment my dreams were shattered (a childhood story)
 In the second grade I played in a chess tournament. I made my way somewhat easily to the semi-finals and I still remember exactly how I lost. I remember the exact moves that caused me to fall into a relatively common opening trap (called the Noah's Ark Trap) and how I lost. After the opening, I got destroyed in the middle game and I got smothered mated. Basically he completely embarrassed me. 
 
-The worst part? He was in kindergarten. I cried for a long time. I won some participation thing that my parents tried to cheer me up with, but I was sad for weeks. It wasn't till much later, it was because I realized **I would never become a grandmaster**. 
+The worst part? He was in kindergarten. I cried for a long time. I won some participation thing that my parents tried to cheer me up with, but I was sad for weeks. It wasn't till much later I realized why I was sad, it was because, in that moment, I realized **I would never become a grandmaster**. 
 
 The one thing I was "good" at someone would always be better. 
 
@@ -33,10 +33,10 @@ These Olympiads condition kids into thinking that all problems are well defined 
 
 **I don't like only solving problems, I like creating them to.**
 
-### But I'm not creative
+### Everyone is creative
 Unequivocally, you are the best at being you. You have unique expriences. Apply those to eachother and use your background as a super power to unlock creativty. What can only someone with your specific background create?
 
 ### tl;dr
-people smarter than you have a shortage of motivation and  shortage of problems to work on. 
+people smarter than you have a shortage of motivation and shortage of problems to work on. 
 
 give them both and pretend to know what you're doing. 
