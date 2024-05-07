@@ -4,11 +4,11 @@
 2. a **math hobbyist** interested in "useless" math, though a lot of "useless" math is applied to change the world a few years later (see: [group based cryptography](https://en.wikipedia.org/wiki/Group-based_cryptography) for one example).     
 3. **entrepreneur**, see [my linkedin](https://www.linkedin.com/in/rohan-ganapavarapu-5115041ba/), [edtran](https://edtran.com), [neuraltap.ai](https://neuraltap.ai)
 4. **hacker** at heart
-5. a high school senior @ [the athenian school](https://www.athenian.org/about) 
+5. a high school senior @ [the athenian school](https://www.athenian.org/about) and a rising college freshman looking to pursue cs/business
 
 ## research interests
 
-- programming language theory (type theory, formal semantics, and compiler construction)
+- programming language theory (type theories, formal semantics, and compiler construction)
 - formal verifications
 - satisfiability modulo theories (smt)
 - functional programming (fp)
