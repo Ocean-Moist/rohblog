@@ -1,6 +1,6 @@
 ﻿+++
 title = "You're Wrong About Hard Work" 
-date = "2024-1-31T19:30:33-08:00"
+date = "2024-01-31"
 +++
 ## The Addictive Idea of "Grinding"
 There is this idea, often sold to young men, that "you just need to choose to be successful," that success is only a function of how much suffering you can put yourself through. The reason this is addictive is that it lowers the perceived bar to peoples dream life. 
@@ -40,5 +40,3 @@ We have been conditioned to comfort. Conditioned to mediocrity. Sometimes all ni
 This is the difference between an employee at a FAANG and a startup. It has to do with culture and mindset. If you primarily draw meaning from things outside of work, it makes sense that work is a means to an end. If you are young (no one to provide for), ambitious, and have a strong vision, do what you love. If at the first hard problem you encounter your first thought is "I am not doing this because it is not in my job descriptions and has a lot of unknowns" work at a big company, where the company cares much less about you and the value you create for it. You can easily reframe this as "this is a hard problem and how can I facilitate a solution that provides value for my company and myself?" or even "is solving this hard problem worth it in terms of contributing to the vision of the company?" Much more useful, and frankly easier to get to, framing for startups, where you are deeply connected to the vision.
 
 ## Talk Which Inspired this: [How to Win by Daniel Gross (highly recommend)](https://www.youtube.com/watch?v=LH1bewTg-P4)
-## tl;dr
-rome was not built in a night (andrew tate tiktok bad); start with the self; incremental changes good; don't stop incrementing when you are comfortable; 

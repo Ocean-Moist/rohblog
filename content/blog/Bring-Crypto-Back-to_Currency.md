@@ -1,6 +1,6 @@
 +++
-title = "Bring Crypto Back to Currency/Informal RFC" 
-date = "2024-5-06T19:30:33-08:00" 
+title = "Bring Crypto Back to Currency" 
+date = "2024-05-06" 
 +++
 
 ## The Problem
@@ -31,8 +31,4 @@ Inflation can be measured as average price increases or decreases of this market
 
 A control loop that tracks inflation could use the described method of modulating block difficulty/network fees to influence current inflation and track the inflation target. 
 
-## Plans
-
-I am going to attempt to make this and call it [rho](https://en.wikipedia.org/wiki/Greeks_%28finance%29#Rho)curr (rho, greek symbol + curr(ency)) (pronounced rocker). This has everything to do with rho w.r.t. to derivative pricing nothing to do with the fact that my name is rohan and my [past history of naming things after myself](https://github.com/athenian-robotics/2023-Rohbot).
-
-I am open to collab and question/comments: [rganapav@purdue.edu](mailto:rganapav@purdue.edu). 
+As always, I am open to collab and question/comments: [rganapav@purdue.edu](mailto:rganapav@purdue.edu). 

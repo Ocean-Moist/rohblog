@@ -1,6 +1,6 @@
 +++
 title = "There is Always Someone Better Than You (and What You Can Do About It)"
-date = "2024-2-1T11:13"
+date = "2024-02-01"
 +++
 
 ### The moment my dreams were shattered (a childhood story)
@@ -31,7 +31,7 @@ Sure, you have to be analytically minded (why do you think technical founders ar
 
 These Olympiads condition kids into thinking that all problems are well defined ones that require patterned solutions. It's a rats race. 
 
-**I don't like only solving problems, I like creating them to.**
+**I don't like only solving problems, I like finding/creating them to.**
 
 ### Everyone is creative
 Unequivocally, you are the best at being you. You have unique expriences. Apply those to eachother and use your background as a super power to unlock creativty. What can only someone with your specific background create?
