@@ -26,3 +26,8 @@ theme = 'hugo-bearblog'
   # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
   title = "Hugo ʕ•ᴥ•ʔ Bear"
 
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]

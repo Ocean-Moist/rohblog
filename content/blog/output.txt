@@ -1,0 +1,612 @@
++++
+title = "Risk" 
+date = "2024-08-24" 
++++
+Most people fundamentally misunderstand risk. 
+
+Risk is a broad, somewhat useful, metric that people use to predict future outcomes. Risk is only correct relationally to the system that its defined by. 
+
+It's a way to quantify a lack of knowledge in relation to predicted future outcomes. Risk is inherent to all systems designed to predict the future as all systems of human understanding are limited. 
+
+So how to succeed in high risk circumstances? Know something others don't, or better, know something that others think is false. These asymmetries in knowledge lead to arbitrage that can be exploited. This is, atleast, how people will explain highly atypical outcomes after the fact. 
+
+It's more useful to ignore risk. Risk is noise, rather a reaction to noise. A flawed prediction based on flawed knowledge. Risk is meaningless. Just build, no one can come close to modeling the extent of human creativity. 
+
+You don't think about the risk you take driving to work, you just drive. It's not useful to do something *and* simultaneously think about risk. 
+
+A lot of things are like this--entropy or fuzzy probability used to attempt to quantify logical unknowns. This should at least tip you off to the legitimacy of the system. 
++++
+title = "On My Writing" 
+date = "2024-09-05" 
++++
+
+In 9th grade my English teacher told me I was writing an assignment with broad over-generalizing maxims and beliefs. I tend to write absolutely, especially when being un-technical/un-scientific. I think this is because this makes my writing more concise and more clearly communicative--unencumbered by the recognition of my limitations or the limitations of my ideas. 
+
+This is because I take for that granted everything is limited. No idea or set of ideas can be truly be always "true". Truth is assigned and constructed anyways, so most of my writing gives simplistic systems ("heuristics") that are useful for making sense of the world.
+
+My english teacher also told me that I lacked ethos. I still lack ethos. I would not take advice from me either, there is little proof that my ideas lead to success. This means if you are reading this you are wasting your time (unless it is the future and I have managed to make something of my life). The content you consume effects your ideas, and generally this heuristic of taking advice from people who have accomplished what your goal is is a great way of filtering noise. 
+
+I have some personal conviction, however, so I actually do believe these ideas. The problem with listening solely to successful people is that everyone else is doing this, so you are average. You'll be "right" a lot, but it won't be as valuable as people who are simultaneously "right" and contradicting the majority narrative. So the self has some right to be a north star. 
+
+I almost never took notes in school, instead relying on becoming familiar in broad strokes what is being taught and filling in the rest with reason and logic. I do the same thing with most of my thinking, but sometimes I find myself doing redundant work. 
+
+When I write, I write the filling and not really the broad ideas, so I can quickly "rebuild" this knowledge if I lose it. My ideas are somewhat spiky in their generation, nonlinear in their creation, so sometimes I will have a bunch of great ideas, and if I don't write them down the next day I will just be left with the wisps of them, and sometimes I can't fill in exactly what I thought about. 
+
+I think, as a general rule, all knowledge should be free, useful or not, so that's why I cast my writing into the internet. Maybe 10s of people will generally find my ideas interesting, which is enough. 
+
+If I were to give myself advice 4-5 years ago, even 2-3, I would tell myself to document everything I was doing. 
++++
+title = "On Uncreative People" 
+date = "2024-08-07" 
++++
+There is no shortage of deeply intelligent but characteristically uncreative and cynical people. This is wildly unfortunate. This piece is about one piece of advice I would give this archetype of people.
+
+## the sum of the total is not the total of the sum
+
+Think about cooking. The product has much more "value" than the constituent ingredients alone. 
+
+A painting is much more than just paint and a canvas. 
+
+A song is much more than some 808s and a nice melody. 
+
+This process of turning [profane](https://en.wikipedia.org/wiki/Mircea_Eliade#Sacred_and_profane) things into something sacred (though not strictly divine) is the creative process.[1]
+
+An artist is someone who achieves brilliance by operating on and arranging seemingly common discrete pieces into a continuous, highly compelling piece of art.  
+
+## what does this mean
+
+The people I am writing this article about are the type of people to analytical ascribe value to discrete pieces, sort them by value, and assemble the highest value pieces into their end product. This won't scale superlinearly. 
+
+To them, it's like a test. Each problem is worth x points and you just have to string together enough problems to pass. In this case the sum of the total equals the total of the sum.    
+
+They thrive when given clear goals and metrics. The perfect employee. These type of people are likely to fall into a local maximum. 
+
+Every big or creative idea is attacked, reason is shoehorned to reduce said idea to its "objective" merits. Risks are overly-calculated and conviction is generally low. 
+
+Their intelligence is used to *reduce* to *analyze* to, for the lack of a better word, *antagonize*. Not create. Not to have wild ideas or shift away thinking from the mainstream.  
+
+They live predictably and try to section themselves off from the highly chaotic world we are subject to. In order to get highly "lucky" or escape probabilistic mediocrity you need to be creative. 
+
+Though, there are people who are characteristically unintelligent and uncreative/cynical, these people are liable to be contrarian and wrong. I am not talking about them in this article. 
+
+[1] This parallel between profane/sacred and what divinity really even means in the [hyperreal](https://en.wikipedia.org/wiki/Hyperreality) age is highly interesting. Eliade mostly wrote about prehistoric humans, but the parallels between prehistoric and (for the lack of a better term) "post-modern" humans is worth exploring. 
+
+Consider this [excerpt](https://www.goodreads.com/quotes/541239-we-drove-22-miles-into-the-country-around-farmington-there) for an example of a "sacred" (from the text: "religious experience") and hyperreal (from the text: "taking pictures of pictures") object in modernity. 
+﻿+++
+title = "You're Wrong About Hard Work" 
+date = "2024-01-31"
++++
+## The Addictive Idea of "Grinding"
+There is this idea, often sold to young men, that "you just need to choose to be successful," that success is only a function of how much suffering you can put yourself through. The reason this is addictive is that it lowers the perceived bar to peoples dream life. 
+
+The problem is this only works if, on a fundamental level, you truly believe it. You believe that your success is unbounded. The problem is, if you consume this sort of "motivational" content, you fundamentally do not accept this as true. You are trying to convince yourself of it. 
+
+You have to understand that the source of this belief has to be well founded. Most of the people who seek this type of story, need to reflect on what there true self image is. If you, even unconsciously, think you are a loser, no amount of consuming this hyperbolic "grindset" content will help you. 
+
+## The Solution: Tear it all Down 
+> # “Until you make the unconscious conscious, it will direct your life and you will call it fate."
+> -- [Carl Jung](https://en.wikipedia.org/wiki/Carl_Jung)
+
+To be clear, I am not Jungian. But I think [accuracy is secondary to usefulness](https://en.wikipedia.org/wiki/All_models_are_wrong). 
+
+First thing is, reflect. Think about your actions in the third person. When you feel emotional think "I am getting angry/sad/aggressive." Every action should fall in line with who you are, try to cut out every action, everything, in your life that is not in your vision of yourself. Or, revise your vision of yourself. 
+
+Don't get rid of emotion. Control it. Emotion is the primary language of communication between people. Feelings, intuition, predicate everything we do. How we feel about something, how we feel about ourselves, is what motivates us. This is not as insightful as you think, you know it, but it feels better to believe that our actions are "rational" (whatever that even means). 
+
+Look within and reject any attachment to useless outside influence on your core values. 
+
+## The Solution: Building Back Up (Escaping Troughs and Rock Bottom)
+This is the hardest paradigm shift to make. Realize that people do not do crazy things out of a singular conjuring of pure will. Pulling unnecessary all nighters, that motivation you get at 3 AM, is unsustainable and you are falling behind. 
+
+Growth is incremental, and there are infinite aphorisms I can provide to frame this: [kaizen](https://en.wikipedia.org/wiki/Kaizen) (my favorite), the tortoise vs the hare, run a marathon not a sprint, linear vs exponential growth, 1% a day for a year vs doubling in a day, etc. This is the easy part to get. 
+
+![Linear Growth vs. Exponential Growth — Chris Danilo](https://cdn-images-1.medium.com/max/1200/1*_EslFr9qVHwSIMArMlFnRg.png)
+
+Now the hard part: actually practicing and believing this. The single best thing I ever did was starting with taking care of myself. First thing I actually had to do was to reflect, realize that cumulatively I was unsuccessful. The first thing I noticed when I started meditating was that I was actually super tired, only awake due to the constant stimulation of the outside world. I was being controlled, my mind was malleable. I was being conditioned to be the ultimate consumer, to be an addict. I hate being unfree, so this already gave me motivation. 
+
+There are a billion things I could say or provide, to make you take care of yourself better, but realize that the first low effort things that anyone can do that will incrementally improve themselves is self-care. 
+
+## The Current Self-Help Culture is Harmful
+Everything I just said is commonly accepted advice, and it is not wrong. However, I refuse to let this be an excuse to be lazy. If you take care of yourself and are living a linear life, in other words you stopped at taking care of yourself and your rate of growth plateaued, that is worse than the people who start at the bottom. As the people who started at the bottom accelerate to your velocity, as quickly as they caught up, they will pass you. 
+
+We have been conditioned to comfort. Conditioned to mediocrity. Sometimes all nighters are necessary. Sometimes things must get done. Do those things. All I am saying is, think about when these are necessary (locking in right before a checkpoint in a video game), and when you are getting outpaced (the tortoise will pass you once you go to sleep).  If you like something and do not love it, change it. I am incapable of doing things halfway. I am incapable of clocking in and clocking out of work. Why would I chose to do something I do not enjoy? If I choose to do it, I enjoy it, If I enjoy it, I will pursue it relentlessly. 
+
+This is the difference between an employee at a FAANG and a startup. It has to do with culture and mindset. If you primarily draw meaning from things outside of work, it makes sense that work is a means to an end. If you are young (no one to provide for), ambitious, and have a strong vision, do what you love. If at the first hard problem you encounter your first thought is "I am not doing this because it is not in my job descriptions and has a lot of unknowns" work at a big company, where the company cares much less about you and the value you create for it. You can easily reframe this as "this is a hard problem and how can I facilitate a solution that provides value for my company and myself?" or even "is solving this hard problem worth it in terms of contributing to the vision of the company?" Much more useful, and frankly easier to get to, framing for startups, where you are deeply connected to the vision.
+
+## Talk Which Inspired this: [How to Win by Daniel Gross (highly recommend)](https://www.youtube.com/watch?v=LH1bewTg-P4)
++++
+title = "There is Always Someone Better Than You (and What You Can Do About It)"
+date = "2024-02-01"
++++
+
+### The moment my dreams were shattered (a childhood story)
+In the second grade I played in a chess tournament. I made my way somewhat easily to the semi-finals and I still remember exactly how I lost. I remember the exact moves that caused me to fall into a relatively common opening trap (called the Noah's Ark Trap) and how I lost. After the opening, I got destroyed in the middle game and I got smothered mated. Basically he completely embarrassed me. 
+
+The worst part? He was in kindergarten. I cried for a long time. I won some participation thing that my parents tried to cheer me up with, but I was sad for weeks. It wasn't till much later I realized why I was sad, it was because, in that moment, I realized **I would never become a grandmaster**. 
+
+The one thing I was "good" at someone would always be better. 
+
+### My aversion to olympiads and competitions
+If it's not clear by now, I am extremely competitive, but I hate competitions. I hate solving problems I can't choose and being subjugated and restricted by a framework imposed upon me. 
+
+I think the reason that IMO winners don't meet their unreasonably lofty expectations for math research, is because they **have not been told to be creative.**
+
+My skills are only partly technical, most of them come from creativity and strong asymmetric convictions.
+
+### Why creativity matters
+> "I hate Competition"
+> - Peter Thiel
+
+[Link the talk where he said this (highly recommend!)](https://youtu.be/3Fx5Q8xGU8k?si=BweNWg2vDfdA_OvQ)
+
+Steve Jobs was not the best computer or phone maker. He was actually pretty non technical. All he had was a strong conviction about a problem he saw that nobody else did. 
+
+What Thiel is referring to is how there are fundamentally two types of companies: hyper-competitive companies competing for tiny slivers of market share, and disruptors who apply asymmetric thinking to become a monopoly.
+
+Sure, you have to be analytically minded (why do you think technical founders are more successful?), but, you only have to be technical enough to understand the problem. It takes creativity to cast it in a way no one else has and to solve it.
+
+These Olympiads condition kids into thinking that all problems are well defined ones that require patterned solutions. It's a rats race. 
+
+**I don't like only solving problems, I like finding/creating them to.**
+
+### Everyone is creative
+Unequivocally, you are the best at being you. You have unique expriences. Apply those to eachother and use your background as a super power to unlock creativty. What can only someone with your specific background create?
+
+### tl;dr
+people smarter than you have a shortage of motivation and shortage of problems to work on. 
+
+give them both and pretend to know what you're doing. 
++++
+title = "YC's Scaling Problem" 
+date = "2024-10-01" 
++++
+
+## disclaimer
+I am not affiliated with YC or have any personal insight into the inner workings of YC. It is hard to track YC's success (with precision) as those metrics are largely not public, and this article is mainly a speculative guess based on limited history. 
+
+## the thesis
+Generally, the YC thesis makes a lot of sense. Remove the barrier to entry and networking required to get VC funding and fund smart (curious) people. The requirement for this to work is that YC must be run by smart people with experience. Until now, smart (curious) people have attracted smart (curious) people who in turn attract more smart (curious) people, leading to a sort of snowball effect. Interestingly, this leads to a market where YC is heavily dominant over even the second-best pre-seed specialists, as all the smart people go to YC. 
+
+## the problem
+The issue is that the first premise ("Until now, smart (curious) people have attracted smart people...leading to a sort of snowball effect.") is at least weaker now, specifically the "curious" part. 
+
+When YC was less prestigious/known/successful, the only people applying were genuine hackers--people who are "curious". People who like to build. You really just had to carefully filter for people who are smart. The fakers/non-hackers were relatively easy to filter out. YC was generally unattractive/unknown to normal smart people. 
+
+I think YC has recently seen a large increase in smart people who apply who really have no interest in hacking but who are really interested in the idea of a startup and the YC prestige and ethos. Everyone wants to be Zuckerberg; no one has built CourseMatch (or the countless other projects before Facebook). It's not entirely YC's fault that "doing startups" has been excessively mythologized and enveloped in an odd (for the lack of a better term) hyperreality[1][2]; they simply happen to be the best at startups. A good microcosm of this hyperreality is whatever is happening on Twitter. Although, they have been doing a lot of marketing on YouTube and other such platforms. As YC scales, this problem only becomes worse, as more of the wrong type of people will apply.
+
+The reason is, smart, non-hackers' heuristics have landed on doing "startups" and applying to YC as their next step. It's the same drive as wanting to go to a good college; the main driver is prestige. This type of person tends to be *really really* good at dressing up to be something in a way that seems appealing. They excel with checkboxes that lead to rewards, like tests. In fact, Gen Z has been trained to do this via the insidious college application cycle.[3] Since most of the YC philosophy/what they look for is public (via their marketing), those people now have their (albeit, somewhat non-useful) checkboxes. Of course, you can't fake users loving your product, but this makes it harder to judge pre-product companies and identify promising teams. Generally, you can tell if you have fallen to this if you start with "getting into YC" as the **primary** goal of your startup.[4] 
+
+This problem is worse with young people, as we have been practically raised to put on an insane song and dance for getting admitted to college. Also, young people have not had time to develop the pedigree of past projects to accurately judge whether they can "build" or not. There is an opportunity cost in waiting for young people to develop and build stuff, so it is in YC's best interest to try and get in early, which is getting increasingly harder. 
+
+YC was built by hackers for hackers, and only works if they keep attracting hackers.   
+
+[1] I really don't understand this. In an effort to dispel the aura around startups, I will provide a few observations. Most of the rich people I know got rich doing really boring things, live quiet lives, and are happier. Most startups fail, their founders wasting a lot of focused, hard work. Most successful startup founders are considered negatively in the general social consciousness. Most venture-backed startups have founders owning less than 30% of the business at exit, and VCs (usually) get paid first in a liquidation event. Slaving for a decade, not being able to beat your last oversubscribed round on exit, and VCs getting tens of millions while you get nothing is not uncommon. If you are smart, there are so many better "+EV" paths to make money. Don't get caught up in the startup romanticism and distance yourself from "being cracked" or prestige. 
+
+[2] Hyperreality is an often misunderstood concept. I am using it wrongly (colloquially) here and not in a baudrillardian way simply because I can't think of a better word. 
+
+[3] I swear, I saw a tweet from maybe Garry Tan or someone else who said something along the lines of "we are trying to filter out people who treat applying to YC like applying to college". I can't find it now; if someone does, please email me and I will add it. 
+
+[4] There are, admittedly, some exceptions. A very small minority of people follow this path: I want to get rich -> I will create a startup, and actually succeed. I think the percentage of these people who apply to YC is rapidly declining and being replaced by the people described in this essay. This is also different (probably even better) from being prestige-obsessed.
++++
+title = "I Wish I Didn't Miss the '90s-00s Internet" 
+date = "2024-09-06" 
++++
+
+## about me
+I am 18, born in 2006. This is generally a good thing as I am in the prime of life currently. I am not one of those people who think they were "born in the wrong decade", I think I was born at the perfect time to take advantage of superlinearly growing technological advancements.  
+
+## the internet today
+I generally greatly dislike social media, although I am an avid user of it. When social media caught on, the people running these companies were tasked to make it profitable. In doing this, social media got completely ruined. 
+
+Our data got commodified[1], our attention got commodified, and a substantive part of who we say we are got commodified. This, in general, has led to a degradation in the quality of the internet.  
+
+They basically made social media like a drug, as addictive as possible. They do this by promoting FOMO and comparison in Instagram's case. Instagram is a game, it is extremely performative. People carefully curate each part of their insta to give certain impressions. 
+
+What's the ratio of followers to following you have? Are your story highlights organized and "aesthetic"? What reels are you liking? 
+
+There are a lot of "rules" in this game, which are enforced by social "ins" and mutual respect. 
+
+When it comes to shortform content, hundreds of people compete for slivers of our attention. We are not agents in this, they are just presented to us. Completely depersonalized. They are forgotten within seconds. Ask someone watching tiktok to describe the previous tiktoks they just watched, they would be hard pressed to tell you more than a few minutes in the past. Something about tiktok is unusually addictive. all the while providing absolutely no value.  
+
+It has become so shallow, you can tell almost nothing about who someone actually is through Instagram or tiktok. You can only tell how they want to portray themselves to the general population and, by how they organize their profile, if they are eligible to be a part of your social circle.  
+
+## the appeal of simplicity 
+I wish I was around when people had blogs or even myspace. This era was deeply personal and creative. Most writing on the internet was individual, not written in search of "SEO" or profit but driven by the need and want of people to share knowledge--pure curiosity. 
+
+I want the thrill of finding new websites searching through web rings; when the web was truly the wild west and not another arm of control by mega corporations.   
+
+This is also reflective in the quality of content. There was little incentive to lie, to manipulate truth, and each blog entry or piece of information was tied to identity. (except in the cases of anonymity). 
+
+Even the content written by normal people for normal people has been commodified by sites like reddit and quora. What happened to an old fashioned forums or even usenet groups? (granted, especially for cars and hacking, there still exists plenty of forums)
+
+Also, websites just simply looked cooler. Occasionally I scroll on the geocities archive and wonder, how did we get here?  What happened to the patterned backgrounds, the bright maximalist jpegs and gifs?  This is sort of contradictory to my website, as it's almost annoyingly minimalist, but this more has to do with social norms and simplicity. Having a personal blog is already out of the ordinary, but the simple design and clear technical direction/theme gives me an excuse. I also am not that personal on here, because only a few of my friends frequent my blogs, and I want the site to be as simple and to the point as possible if a random person wants to know who I am. 
+
+## a niche resurgence 
+There is [neocites](https://neocities.org/), and a small community of people who share this philosophy about the web (and that are relatively young), but I have not met anyone my age, in the real world, that would choose to do something like this. 
+
+The majority of people (my age) today would think sites like those (and, by extension, their creators) are weird.   
+
+[1] you can substitute "commodified" with "bought and sold"
++++
+title = "Java is an amazing language (better than rust)" 
+date = "2024-03-05" 
++++
+
+DISCLAIMER: Let me preface this by saying my favorite language is Haskell and that I write toy languages for fun. I am a pl nerd so my opinion is valid. Also the title is like 20% bait. 
+
+My secret was always that I like coding in java, in some sort of masochistic way. Everything is dead simple. Everything is so verbose you can never forget what anything is. It is like sitting down and playing a relaxing game of stardew valley. It flows so easily. The feeling of mastery is so easy to attain. 
+
+Coding in rust is like playing chess and league at the same time. It is the same mental exertion and the same insufferable people yelling at you on the internet. The semantics are cool. I love how it borrows stuff from functional languages. But can I tell you a secret? Java gets 75% of the way there with 10% of the complexity. 
+
+Error handling is definitely better in Rust, but it is closer than most think. The way errors get buried and propagated up the call stack can be confusing. In complex programs it can be missed. Pattern matching is better in Rust, but is closer than most think. Java records, java switch statements, Optional<>, streams, they all basically make up for the OOPiness of the language and are all pretty straight forward. Also the concurrent data structures in java are much nicer to use than in rust. 
+
+Learning rust is hard, it could not be the language AP CS is taught in. The first skill gap is the borrow checker, then lifetimes, then async, and then macros. The smallest, first skill gap, the borrow checker, was about 10 times harder than learning about Java classes for the first time, and about 3.5 times harder than grokking monads. I still can  BARELY write complex async rust, and if I see or have to write a macro that is like a hair above the simplest examples I will quit the editor. 
+
+I would say the most clusterfucked abstract class inheritance system design in Java would not even approach the most complex Rust system design. Then again, I have not worked in a legacy Java environment, but I think this argument is still valid. Rust simply does not scale as well as Java. 
+
+I also hate the skill issue argument. Like you know what the ultimate skill issue is? You not knowing C well enough to make memory safe code. Forget C, you not going complete rollercoaster tycoon and writing some plain x86 assembly. 
+
+The whole point of a language is to be easy. Basically the Go philosophy (which I do like more than Java these days, although it does not have the functional stuff I want). Like the whole point of high level languages is to never encounter such skill issues. It is to write working code fast and in a maintainable way. Naturally you would want this to be easy. 
+
+It is so easy to write good java with a few guidelines. Duplicate 1-2x before abstraction. No inheritance unless you are sure, especially no more than one layer deep. Use Optional<> over null. Do not get cute with your abstractions. Java is so easy people feel the need to make it hard doing OOP gymnastics to build "elegant" systems. 
+
+Now here are some cheap, easy arguments. More people know Java and more jobs need Java. Tooling is better for Java and the ecosystem is more developed. I absolutely love JetBrains IDEA and no amount of loser lua neovim (don't come after me I use neovim for C, zig, and other low level languages) config for Rust will match IDEA's support for Java. (also if the primeagen is reading this, lua sucks, don't @ me, it is never enjoyable to write, imagine liking the language I used to code roblox hacks in when I was 9 years old).
+
+I am going to admit, maybe I just do not know rust enough. But I promise I have coded more rust than most of you have, and I probably know it better than the average self proclaimed rust enthusiast. And yet, if I had to write a big grug "business logic" project, you would see me reaching for Java before rust.  
+
+The final thing about rust is that it is not even particularly elegant. Haskell is nice to look at, APL (BQN, UIUA) is nice to look at. When I want a puzzle I write in those languages. Because I admire the mathematical abstraction. Rust is marred with the compiler, marred with low level BS that makes it ugly. That does not make it satisfying in this way. If you love language design, or beauty in programming languages, Rust is not even that good. It is not beautiful, it is not as useful as people proclaim, and it occupies such a small use case that the language is mid.  
+
+Even when I do systems programming, like low level stuff, I just want to manage my own memory. I do not want to beg the compiler to let me write code, I just want to allocate stuff and put stuff into there. C is fine for this. I'll try zig later. 
+
+And I am not saying rust is always bad. It has a small but limited number of use cases. For example I wrote a bot that helped buy things rather quickly in 2020-2021 (provided I was awake to do some captchas). I needed it to be performant, robust, and the scope was just simple enough (even though it was async) where I knew I would not need a lot of code (but a mediocre amount). It occupied the space just before the complexity curve went asymptotic. The other use case is for writing toy languages, it does that super well. At its best it feels like using a cnc mill to machine a precise gear. But most times you just need an injection mold and some plastic. 
+
+P.S. check out this fizzbuzz impl. I did in Java, I have not found a similar solution in Java ANYWHERE on the internet. It also shows the power of modern Java. (please do not actually use this in an interview) https://github.com/Ocean-Moist/FizzBuzz/blob/master/src/Main.java  
+
+P.S. plz write your applications in Go instead of Java, otherwise you might get brainwashed by RxJava. if this happens, no one has found a cure. 
+
+
++++
+title = "85% of Cursor AI in a Shell Script and Good Prompting" 
+date = "2024-10-22" 
++++
+This is an example workflow of how to integrate LLMs into your software dev.  
+
+First script (`prompt.sh`) does one thing: dumps your entire codebase context into a text file. It first appends the file tree while ignoring what you tell it to ignore (node_modules, files not needed contextually, etc), and recursively finds and auto includes what you want to include (e.g. *.ts, *.tsx), and adds any extra files you need (API docs, project plans).
+
+Second (optional) script (`create_file.sh`) takes the LLM output and creates files in the right path. This is based of the fact that you prompted the code generation LLM to prepend files with something like this:
+```js
+// src/app/project/components/ProjectCompletionScreen.tsx
+``` 
+
+Both scripts are available on my github and linked at the end. 
+
+The workflow:
+1. Write (use o1-preview to write) a `project_plan.md`[1]. Write any other docs you want it to reference, I wrote a UX design guide with the colors, fonts, and style I wanted to use. Write what you think a junior dev would need to complete the project on their own. 
+2. Set up three prompt templates/files:
+   - task_giver_prompt: Asks the LLM what to do next (but doesn't write any code, just makes a plan, like what component/file to next create/implement)
+   - llm_task_proposal: Where you paste the output from the last guy
+   - task_execution:_prompt The prompt for the LLM that does the actual implementation  
+3. Run it:
+```bash
+prompt.sh -i"node_modules" -e"*.ts *.tsx" -f"plan.md,task_giver_prompt"
+# This command will make an out.txt with your entire project and all the docs/prompts specified
+# Copy out.txt to o1-mini (using xcopy for convience)
+# Copy o1's response to llm_task_proposal_prompt
+
+prompt.sh -i"node_modules" -e"*.ts *.tsx" -f"plan.md,task_execution_prompt,llm_task_proposal"
+# Copy output to Claude 3.5 Sonnet (using xcopy for convience)
+# This time we want to include a different prompt and the output from o1-mini
+# Use create_file.sh to make the file for the response quickly. You run create_file.sh, paste the code, and press ctrl_d. It will make the file in the right directory, instead of manually having to create the file and then copy/paste-ing.
+```
+4. Review the code. Fix any errors. Start a new chat. Repeat/tweak 2-3 until project is done.
+
+You get the improved recall and reasoning of o1 with the code gen ability of claude. If your project gets too big, decouple your code and write better docs to lower context, and lower the scope of your project plan.
+
+You/others can work on it and leave stuff unfinished and the AI will pick it right back up. It is not on the level of doing stuff on its own yet, so you need to still write code and be in charge of it. 
+
+The magic is in crafting the prompts, so look at some of these examples:
+
+**Example Prompts**
+-   **Task Giver Prompt**  
+    [_View on Github_](https://gist.github.com/Ocean-Moist/87cb55ef5d7664802326f79a400c570d)
+    
+-   **Task Execution Prompt**  
+    [_View on Github_](https://gist.github.com/Ocean-Moist/a0721110b72ad5aee99bab7a10757ff1)
+    
+-   **Project Plan (`plan.md`)**  
+    [_View on Github_](https://gist.github.com/Ocean-Moist/57c8b3d1bc8d6003f7c81c16eda55284)
+
+Scripts as promised:
+
+**Scripts**
+-   **prompt.sh**  
+    [_View on Github_](https://gist.github.com/Ocean-Moist/dec0fc92723fe9bcfcefc041d233fab6)
+    
+-   **create_file.sh**  
+    [_View on Github_](https://gist.github.com/Ocean-Moist/68ce4ea771314d7d96aba0ed12c68cea)
+
+## notes
+[1] Keep project plans clear and scoped. Take the guesswork away from the LLMs. Let them focus on one component at a time.
+
+## P.S.
+This is an example. Scripts need work. prompt.sh args are messy and should auto call xcopy. create_file.sh should handle multiple files. The magic is in the prompting--tweak until it flows. I am in the process of making something 10x better email me if interested **rganapav [at] purdue [dot] edu**. 
+
++++
+title = "My Dev Enviroment" 
+date = "2024-04-05" 
++++
+
+### The Laptop
+
+Before I broke it, I used a Zephyrus G14, it was great, the best mobile AMD cpu, and a pretty good gpu. 
+
+It was probably the best laptop on the market. Great cpu for compiling stuff (gentoo moment), and great gpu for VM passthrough so I can send texts and write swift. (sorry apple).  
+
+I am now using a thinkpad x13 yoga, the folding and touch screen is gimmicky and I don't use it. I will always prefer taking notes and reading on paper.
+
+### The OS
+
+Linux is a must. Linux supports the freedom of the user. I mean everything can be built to be the most efficient and best for your needs. I would use BSD (specifically, openBSD) if it was not for lack of support
+
+### The Distro
+
+I used to be a chronic distro hopper until gentoo. Gentoo is the single greatest distro to ever exist. It is one of the last distros that supports user choice and it shows. 
+
+I turn bluetooth off on the kernel level, but otherwise keep it generic. I use OpenRC because I hate systemd. That could be a whole article in itself. I will give one brief example. I want to change my DNS on ubuntu, I open up resolv.conf and what do I see? ITS MANAGED BY SYSTEMD. WHY IS MY INIT SYSTEM STICKING ITS SLIMY TENDRILS IN EVERYTHING I DO.
+
+### WM and userspace
+
+I use DWM and slstatus from suckless (with my own selection of patches of course) and dmenu. I use Xorg because I am used to it and it just works. I tried wayland a few years ago and it was not stable. I use ly for the display manager. I however use alacritty and not st because it is super fast and I like the config. I use networkmanager. I use chrome for browsing because I am trapped by the sync. If you are looking for browser recs, I would just recommend ungoogled-chromium. I use a local password manager. 
+
+### Dev stuff 
+
+I use neovim for basic file editing and config stuff, but I absolutely love jetbrains IDE products. I am sorry I do not want to spend hours of my time to reach feature parity with an IDE that takes negative time to setup. Actually, I think the quick fixes in IDEA (java) are way better than any neovim plugin. Though, I of course use vim keybindings, there is no better way to edit text. 
+
+### Jetbrains Stuff
+
+I used to use copilot, but its actually not helping that much.  If I need AI to do boilerplate or generic stuff I just paste into claude and it does an ok job. Obviously I use ideavim. I use rainbow brackets and rainbow indents and rainbow csv. I use nyan progress bar because it might have been the first plugin I installed. I use this weird theme called soft-charcoal, but most people would not like it. 
+
+### Terminal stuff
+
+I am back to bash (use to be dash and yash). I am tired of rewriting every little script to remove bashisms and make it posix. I used to use nmtui but now I use nm-applet. I use the GNU utilities, I am not a shell wizard but a few tips I can give are as follows. Learn GNU parallel. Learn grep, sed, sort, etc. Will get you out of a pinch. I am not a terminal wizard. I used to use nushell but it was too complicated and I never need to use the terminal in that way. If bash gets too complex I will just reach for python. 
+
+### Conclusion 
+I started using linux daily about 7-8 years ago, when my time then was worth nothing and my brain was not developed fully (it still is not close, to be fair). I chose to make the investment into my build tools so when my brain developed some more it would payout. In other words, I made this investment when my time was worth nothing (although it is only worth a bit more now) so it would pay out when I started building stuff. If you have mac and work in industry, or are a junior or senior in college, I do not see Linux being a worthy investment unless you have a genuine interest in it. 
+
+Funnily enough, 7-8 years ago, in the same vain I tried to learn DVORAK and vim motions. I will let you guess which one stuck. Never use DVORAK. I would also recommend just doing what interests you. At the time Linux did (it still does, again, to be fair) so I used it.  
+
+Feel free to ask me about more stuff and I will add it here. 
+
++++
+title = "Is the College Student Startup Pipe Dream Dead?" 
+date = "2024-09-13" 
++++
+## The college startup pipe dream
+I write this article to pose a question: Will the next trillion dollar startup be started by a college-aged kid in his dorm? 
+
+Can the pattern of Microsoft, Meta, Amazon, Apple, and Google be repeated?  (Bezos being a sort-of exception to this, as he was ancient when he started Amazon at 30). 
+
+## An analysis of historical successes 
+What's interesting is that all these incumbents started as consumer startups, and most hyperscalable startups that have started in the interim are B2B SaaS. Looking at the exceptions, even the newest fastest growing social media incumbent (TikTok) was started by a company not an individual. Past that, the next biggest consumer innovation was ChatGPT, and that was created by a team of research scientists, a far cry away from a guy and his friend in a dorm. 
+
+Then there are the Uber's, the Doordash's, the AirBnb's, et al. But these companies are quite limited in their scope, and clearly nowhere near trillion dollar scale. It doesn't seem like they have a way to get there either. I don't say this to downplay their extremely impressive achievements, just in pursuit of an accurate understanding of the environment. Further, these founders seemed to be in their late 20s/early 30s when starting their business. Even the hard data suggests that most unicorn founders are in there mid 30s.[1] 
+
+I think there are a few reasons for this. The first being that these big companies have become effective monopolies on scales never seen by capitalism before.[2] The second being a relative stagnation in the technological platforms being used. People are sort of set on phones, laptops, and the web. They have been out so long that almost everything within the bounds of cognition has been tried. 
+
+Apple and Microsoft took advantage of the rise in personal computers (and then Apple, again, took advantage of the rise of smartphones). Amazon, Meta, and Google, all were built off the rise of the web, and then had a resurgence with smartphones. On the backend, there is the switch to cloud and horizontal scalability, which a number of these companies also took advantage of.
+
+The ways people interact with technology have only gotten sub-linearly better since then. We have been treading in the bottom of the log-loss function for so long, all the easy gains have been optimized away. 
+
+## Looking towards the future (AI)
+The obvious next question is about AI. Do the improvements in AI constitute a major platform change? If so, then the college student startup pipe dream has a glimmer of hope. 
+
+I generally think so. This is for a few reasons. 
+
+The first reason is that this technology is not really an incremental improvement over the previous RoBERTa type models, and I think few people understand how surprising it is that these scaled markov chains approximate intelligence. 
+
+The second reason being that ChatGPT and other LLM based tools I have hacked on/played with are much better to use and interact with than their alternatives. For example, one of my friends is building an AI-first CRM for Real Estate agents, and customers seem to respond well to it. Further, my intuition tells me there are a lot of unknown unknowns when it comes to the application of this technology. 
+
+The last reason is that I am sort of blithely optimistic that technology can be growing on a Moore's law-esque scale for a little bit longer and that someone like me (a random college student) can actually change the world on the largest scale. Call me foolish.  
+
+I think looking at OpenAI and Anthropic, you can be fooled into thinking that no one can compete with them, I think you would be wrong. 
+
+I generally think ChatGPT as a product is of limited use to anyone who is not a programmer or student. Maybe writers can game some feedback and overcome writer's block, but that use case also seems extremely limited. Even in those use cases, the UX is kind of just bad. 
+
+There are a lot of ways to package and build around LLMs. I think a clever college student will put some puzzle pieces together in such a compelling way that it will change the way we think. I can't really imagine what that would look like (otherwise I would just build it), but this is what my intuition tells. 
+
+Apart from raw text and on the model side, it's also surprising how model performance scales with data. I think pretrained transformers can be applied to areas other than raw text, and that encoding and decoding higher order relationships is extremely powerful tool. If you are a curious person, I would highly recommend checking out [nanoGPT](https://github.com/karpathy/nanoGPT) and learning about making your own transformers. Do not think that only OpenAI or Anthropic can produce model level innovations. There is a large market for "foundation models" as the VCs call them.   
+
+## Postscript 
+Credit to my extremely smart dad who's conversation inspired this article. He was trying to get me to focus *a little more* on college instead of writing useless blog posts or playing with the shiniest new technology or idea.  
+
+tl;dr: I don't think so, but some would call me naive.
+
+## Footnotes
+[1] https://finance.yahoo.com/news/typical-unicorn-founder-started-business-120026888.html
+
+[2] I say "monopoly" in the same way [Peter Thiel says monopoly](https://www.youtube.com/watch?v=3Fx5Q8xGU8k&t=5s)
+
++++
+title = "Science Didn't Kill God" 
+date = "2024-08-12" 
++++
+
+## preface 
+This article is agnostic to if you believe or don't believe in God. It is about the dogmatization of science.  
+
+## the problem
+Unfortunately it is becoming common to portray people who are religious as dumb and claim that God is dead due to science. I don't think this argument is fair.
+
+Our mathematically understanding of reality (physics) is not reality, We are not uncovering the hidden code of the world. It's all symbolic, operations over symbols that aid in survival. 
+
+We impose our mathematical models on reality in an attempt to make predictions. These mathematical models are structures we have made up to cope with the fact that the universe is a black box. Physics experiments are second order testings of what is actually happening.  They are second order because our perceptions are disconnected from reality (if there is one). They don't test what is really there. 
+
+It is like a deer who sees some movement and classifies it as a predator. It has evolved to do that. It cannot distinguish that some "predators" are non-threats. We are like the deer. I did a bad job of explaining this. See [this video](https://www.youtube.com/watch?v=oYp5XuGYqqY). 
+
+So we invent these systems because they seem to somewhat match what we observe and measure. And this is useful, no doubt. But it is not some secret of the universe. As an example, the popular equation e=mc^2 is not true for all scenarios. A more accurate equation is e=γmc^2 because of special relativity. This sentiment is put into words by the popular saying "all models are wrong, but some are usefull". We only say thse equations are only right because we did some weird stats and got some p-value confirming they work under limited preconditions under limited precision. 
+
+We do not know for certain that any equation is always true. In fact, truthiness is an invented concept, loosely defined in relationship to surviving. There is always some p. And we bet our lives on this p, everytime we start our cars or walk on a bridge. Science is very useful for existing, or for living rather. But do not mistake science as the secret to the universe, or give it some godlike certainty. 
+
+This concept of uncertainty is baked into what science is. It is a process that produces an agreed upon result, this result is not assumed to be correct and is poised to be challenged at every step of the way. If you declare science a god replacement, you commit a cardinal sin of science and declare the findings what science is about, when it is really the process. 
+
+So science has, in fact, not infringed upon God, or subsumed the need for a God. You don't "believe in science instead of God," because these things are incomparable. Don't minimize people, or God conceptually, by using science. 
+
+
+
+
++++
+title = "Making Things People Want vs. Making Things That Alter Thinking" 
+date = "2024-09-12" 
++++
+
+I recently rewrote the interests section of my blog to be more concise. The primary interest I wrote down was **"making things that alter thinking at scale."** When I distilled what I believed to be one of my long-term goals I landed on that. 
+
+Recently I thought about how this is both similar and different to YC's goal of "Make something people want". 
+
+I find that successful startups do both. People want it and it changes the way people think. Here are a few examples. 
+
+- For Uber, people wanted an easier way to get around, but, at the same time, people's thinking shifted away from "why would I want to get into a strangers car?" 
+- AirBnb shifted thinking away from "why would I let strangers into my house?". 
+- Reddit changed the way people interacted online and how online content was aggregated, people often append "reddit" to their google results to get higher quality content. 
+- DoorDash changed the way people think about takeout and how restaurants monetize their food.
+- OpenAI completely shifted how people think about intelligence and the effects of AI on society. 
+
+I think altering thinking at scale requires people wanting that thing, otherwise you wouldn't get network effects and scaling would be impossible. 
+
+Also, I think that making something people wants requires altering the way they think. When you make something new you ask people to reconsider their existing habits and first principles. This mental shift, however small, is what leads to mass adoption and users falling in love with your product. 
+
+Since they both require eachother, in a more abstract sense, we can say they are equivalent. Treating them as equivalent leads to interesting outcomes. 
+
+The more something changes the way they think, the more they want it. Think about how Google changed the way we think about learning and accessing new information.
+
+Also, then, asking people "does x change the way you think?" is sometimes a more valuable and better phrased question than "do you want x?". I think this shift in perspective could also help people escape tarpit ideas, as humans have a hard time figuring out what they actually want.     
+
+Because these two are related, I think the best piece of advice from this essay is that **if you are trying to get people to want whatever you made, try and get whatever you made to change the way they think.** 
+
+tl;dr: making things people want and making things that alter thinking  are isomorphic to each other 
+  
++++
+title = "My Stationary Stack" 
+date = "2024-09-11" 
++++
+
+## inspiration
+I frequently lost pencils and never took notes for most of my academic career. Eventually I got to the point in my self-studying and in my learning were notes was necessary. I find that writing things down can 2-3x the amount of stuff I can hold in my head at once, while making it easier to reference, and makes me remember it for longer and quicker.
+
+## pencils
+I prefer pencils to pens as I can erase pencil but not pen. I also enjoy the experience of using pencils more. 
+
+I have an arrangement of mechanical pencils with several different purposes. I have a rotring 600, a pentel orenz nero, a graphgear 1000,  a  zebra M-701, and a kuru toga metal advance. I use pentel ain stein lead in 2b, I find this darkness is a good middle ground for writing. 
+
+The rotring 600 and pentel orenz nero are both in 0.5 mm, perfect for every day writing. If I am doing math or writing to be shared I generally use the rotring 600 as I find it has a hard and precise nature. If I am going to write large amount I use the pentel orenz nero as I find it soft and gestural. These two are my favorites. 
+
+The graphgear 100 is in 0.3 mm, I use this for fine lines and graphs when I do math. The zebra M-701 is in 0.7 mm, I use this for thicker lines and this is the pencil I give to people if they ask for one (as it's the cheapest and pretty heavy). 
+
+The kuru toga metal advanced I also use for writing large amounts of text, I find it to be sharp and light. I use this primarily when I am tired or bored. I mainly just got it because of the rotating pencil led gimmick. 
+
+I also have a few blackwing palominos (the new ones). They are decent and I sketch with it. I also have a set of koh-i-noor progresso woodless graphite pencils and a set of faber castell polychromos colored pencils I use for art.  
+
+## other tools
+I have two rulers, a really cool nvidia one I got at nvidia GTC, and a classic red digi-key ruler I got when I ordered something once. Both serve a similar purpose. For drawing I would recommend getting one that has a corked back so it's less likely to move.
+
+In total, I have 4 calculators:
+1. I have a numwork n0110, which is the best and most intuitive calculator I have ever used. Custom firmware is possible and (in the factory configuration) it is allowed on the SAT and AP tests. 
+2. I have a TI-84 Plus CE Python, because some of my teachers are (rightfully) suspicious of my numworks. I also let people borrow this one, and use this if my numworks dies.
+3. I have a Casio fx-991ES which is my backup scientific calculator. This calculator I also let people borrow. 
+4. I have a classic TI-30X IIS in pink. I use this as my main scientific calculator. The pink is a nice touch and it stands out so I don't lose it among the classroom calculators. This is also the calculator I used to take the SAT and has unrelated personal memories. If I am feeling nice I let people borrow this one as my casio is somewhat difficult to figure out how to use. 
+
+I use a staedtler mars plastic eraser and a kneaded eraser I mainly use for drawing. 
+
+I use a blank 8 1/4" x 12 1/2" rhodia notepad. These are stapled like legal pads but white and blank. I use to use lined legal pads, but the lines and yellow color, along with subpar writing surface turned me to these rhodia notepads. 
+
+I like the extra length given by the notepad, and I find if I get dotted or lined pads, I tend to just ignore the lines or dots. 
+
+## why?
+I find that by taking pride in my tools, I tend to respect and enjoy using them more. I have not lost a single one of these items (except for one time where I lent my numworks to someone and they lost it...). 
+
+I also understand most of these things are expensive (relatively, anyways), but budget alternatives do exist and I recommend people to do their own research as it makes the process more personal. 
+
+
+
+
++++
+title = "Writing Code with LLMs Leads to Better Software (and other insights from building LLM systems)" 
+date = "2024-10-08" 
++++
+
+Recently I have been working on what I guess is called an LLM agent, but it's more just building more ergonomic tools for myself to use LLMs in my life. The code base keeps growing, and I use it to help write itself.    
+
+What I have noticed is that the patterns I have applied for making code more intelligible to LLMs also apply to making code more intelligible for humans. I think the reason for this is that LLMs can only successfully hold so many details in their context window, and we can only hold so many details in our mind. These observations may seem obvious, but what's so interesting is that two different sets of constraints lead to similar invariants. 
+
+Generally if you `find . -name '*.go' -exec cat {} + >> out.txt` and just append that to the prompt, the LLM will get confused if it's being asked to do something mildly complicated and if out.txt is over >5k lines (degraded performance around 2-3k). This is like if we had to keep a whole API, implementation details and all, in our head while using it. 
+
+When faced with this issue there are a few easy optimizations. The Cursor AI method is to selectively provide a subset of relevant files. This works up to a point, because at some point, there are way too many relevant files and definitions. In order to decrease the amount of relevant files, you need to decouple your code and modularize it, so parts can be worked on non-monolithically, which is also general coding advice. 
+
+Further, extracting common actions to an API, and then writing api docs so that the user (or LLM) does not have to concern itself with implementation details is another way to reduce the necessary context size. Initially I just wrote (or, rather, the LLM wrote) API docs for the backend REST api so the LLM could work on the frontend without concerning itself with backend code, but then my backend got way too complex. Then, I wrote API docs for my external API wrappers (I had go wrappers around OAI, Claude, GPTZero, et al) and other functions.
+
+Overtime I split my project up using these es so that I could use LLMs more efficiently on them, then I realized I inadvertently made it easier for *anyone* to work on my project. As someone who codes a lot as a single person (and not as team) and who hates premature optimization,  I start (and end) most projects as a monolith. When you are the only working on a project you develop seemingly obvious intuitions just by working in the problem domain for a long time. I generally also don't write docs for solo projects except for a TODO list and spend little time worrying about naming.
+
+So writing code for/with LLMs makes you write better software. I think this is a very counter-intuitive point. 
+
+ ## general tip for coding complex projects with LLMs or making LLM agents
+
+I find that LLMs have terrible intuition for creating big project's architecture, especially 0-shot. I am trying to solve this problem via prompting and other stuff in the very tool I am building. Even o1 models (though significantly better) still suffer from this issue. 
+
+LLMs are maximally advanced beginner in all fields and will just make things that don't make sense and have terrible intuition. You basically have to supply intuition. There are 3 steps to software development: describing goals/functionality (planning) -> architecting -> implementations. The one LLMs struggle with is architecting. If you ask it to create an API that does XYZ on a high level it will struggle. If you ask to clarify what XYZ is it will excel. If you ask it to implement a, b, c API routes via implementing d, e, f functions it does pretty well. 
+
+If you've been working in a large, monolithic, project for a long time, and you are tasked with implementing a simple feature you will think it's easy. You'll just define the shapes of the functions and fill them in, aligning with the patterns of problem solving used in the program. If you dump 5k LOC into an LLM and tell it to implement the same feature it will do terribly and the functions and their shapes will be convoluted or not clearly help solve the business objective.
+
+To be fair, if you dump a new person in the same code base they will probably struggle too. The average new hire probably (hopefully?) is equivalent to o1-mini in coding. 
+
+## random stuff/advice
+Create new chats/contexts as often as possible and optimize for only including necessary information and compressing that information into the smallest amount of intelligible tokens as possible. 
+
+I also noticed o1 tends to fix badly/complexly worded prompts so prompting is less important with it, you just have to prompt for guarding it from doing unrelated/unnecessary stuff.  
+
+I find that after the initial gains I am somewhere between 1.5-2.5x more efficient at coding when using LLMs. Cursor AI value add vs. basic bash tools + LLMs is maybe around 20-30%, not worth leaving Jetbrains.  
+
+ChatGPTClaude and other chat based interfaces have terrible UX. Cursor is better, but value prop is too weak for most actual programmers to switch. I'm thinking m going to neatly package all the tools I use, call it rhoGPT, and launch it. I suggest you write your own tools/agents, as interfaces with LLMs is (what I think) the next billion dollar problem.  
+
+P.S. `find . -name '*.go' -exec cat {} + >> out.txt`, knowing other terminal text processing tools (sed, awk, etc), and vim/editor keybinds is the best 80/20 choice to implement creating prompts fo LLMs for coding. I suggest writing simple tools for creating prompts in bash first, you don't need anything complicated. 
+
+I have a folder of common prompts in plain text files then I mix and match them using the bash tools. 
+
+Perchance I am at the rare intersection of maximalist gen z LLM users and suckless driven linux hackers, but this workflow is surprisingly productive. 
+
+Ask me question/provide feedback/share what interesting thing your building at my email--I reply to >95% of them. :) 
+
+rganapav [at] purdue [dot] edu OR rohanganapa [at] gmail [dot] com
++++
+title = "Bring Crypto Back to Currency" 
+date = "2024-05-06" 
++++
+
+## The Problem
+
+Crypto becoming a commodity is the single stupidest thing to gain widespread popularity. It's the paragon of post-neoclassical/postmodern economics. If Adam Smith saw NFTs he would shoot himself. 
+
+What I mean is that value is deconstructed to peoples own assignments to objects, abandoning the notion of any essential value in things. This is closely related to the abandonment of traditional metrics of valuations in the tech sector. 
+
+The original idea was very good--a radical and existential threat to the existing central system of banking. Unfortunately people got distracted by money. Bitcoin was fundamentally flawed due to the built-in scarcity, so obviously the price would go up. The ideal currency has a constant, predictable 2-4% inflation to promote the velocity of money and prevent stagnation. This is antithetical to traditional crypto wisdom where crypto has been completely commodified.  
+
+## A Proposed Solution 
+
+Algorithmically, it is possible to control how much it costs to mine crypto at any point by modulating network fees (PoS)/block difficultly (PoW). This would in turn have an effect of the supply of the currency because if it becomes cheaper (in USD) to mine than more people will mine it (as it becomes more profitable to do so). The supply would then effect the price of the currency as on the marketplace there would be more sellers and it would still be profitable to sell for a lower price. 
+
+Using this methodology, which is essentially equivalent to printing money, it becomes possible to modulate inflation. 
+
+## How to determine current inflation and inflation targets 
+
+Inflation is traditionally measured with producer price index (PPI) which is essentially the average of cost of stable (constant supply/demand) goods. 
+
+So what would be the source of truth for PPI in this theoretical currency? 
+
+## A Self-Hosted Marketplace
+
+There could be a decentralized marketplace (built on top of the coins blockchain) with sellers that become trusted and vetted by buyers through some sort of rating system. 
+
+Inflation can be measured as average price increases or decreases of this marketplace. As a bonus, USD can be listed on this marketplace and could be bought with the crypto, essentially becoming a self-hosted exchange. 
+
+A control loop that tracks inflation could use the described method of modulating block difficulty/network fees to influence current inflation and track the inflation target. 
+
+As always, I am open to collab and question/comments: [rganapav@purdue.edu](mailto:rganapav@purdue.edu). 
