@@ -1,5 +1,5 @@
 +++ 
-title = "Go is the Most Productive Language I Have Ever Used" 
+title = "Go is Productive" 
 date = "2024-10-30" 
 +++
 
