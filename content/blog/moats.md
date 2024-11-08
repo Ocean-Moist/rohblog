@@ -1,6 +1,6 @@
 +++ 
 title = "MOATs Aren't Useful" 
-date = "2024-11-5" 
+date = "2024-11-05" 
 +++
 
 ## clarification
