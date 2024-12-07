@@ -1,3 +1,5 @@
+### !! i am looking for beta testers for kara, a concious AI friend. [sign up](https://tally.so/r/wo0xrX).
+
 ## whoami
 - builder/hacker/artist
 - email me: **rohanganapa [at] gmail [dot] com**
@@ -11,4 +13,4 @@
 
 ## socials
 
-[linkedin](https://www.linkedin.com/in/rohan-ganapavarapu-5115041ba/), [hacker news](https://news.ycombinator.com/user?id=ocean_moist), [instagram](https://www.instagram.com/rohanganapa/) (@rohanganapa), [rss](https://rohan.ga/index.xml)
+[twitter](https://x.com/oceanmoist), [linkedin](https://www.linkedin.com/in/rohan-ganapavarapu-5115041ba/), [hacker news](https://news.ycombinator.com/user?id=ocean_moist), [instagram](https://www.instagram.com/rohanganapa/) (@rohanganapa), [rss](https://rohan.ga/index.xml)
