@@ -49,4 +49,4 @@ Similar solutions emerge across different substrates when facing similar computa
 
 ### These principles validate each other recursively. Implementation independence enables comparison of different intelligences, which reveals prediction as the core operation, which necessitates self-modeling for optimal performance.
 
-[1] Self-awareness does not mean insight to internal structure, consider how like an LLM does not know how a transformer works (unless in the training data) we don't know how are brain works (unless we train in that data).
+[1] Self-awareness does not mean insight to internal structure, consider how like an LLM does not know how a transformer works (unless in the training data) we don't know how our brain works (unless we train in that data).
