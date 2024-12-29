@@ -1,5 +1,3 @@
-### !! i am looking for beta testers for kara, a concious AI friend. [sign up](https://tally.so/r/wo0xrX).
-
 ## whoami
 - builder/hacker/artist
 - email me: **rohanganapa [at] gmail [dot] com**
