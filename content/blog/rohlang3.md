@@ -3,7 +3,7 @@ title = "rohlang3: (an attempt at) a point-free, homoiconic, and dependently typ
 date = "2025-01-02" 
 +++
 
-### github: https://github.com/Ocean-Moist/rohlang3?tab=readme-ov-file#project-structure
+### github: https://github.com/Ocean-Moist/rohlang3
 
 I’ve long been obsessed with minimalistic languages that still manage to have expressive power. My usual approach: start with a bare-bones combinator calculus (like SK), then keep adding “one more extension” until it looks suspiciously like a full-blown typed language. rohlang3 is exactly that experiment. It’s a small language built in Rust that tries to be point-free, homoiconic, and (somewhat) dependently typed, all on top of an SK-like foundation—plus reflection, partial evaluation, and a weird environment reordering system.
 
