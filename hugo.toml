@@ -31,3 +31,6 @@ theme = 'hugo-bearblog'
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   term = ["HTML", "RSS"]
+
+[markup.goldmark.renderer]
+unsafe = true
