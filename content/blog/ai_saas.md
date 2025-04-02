@@ -1,5 +1,5 @@
 +++
-title = "AI, Software, and Money" 
+title = "How AI Changes the Economics of SaaS" 
 date = "2025-03-07" 
 +++
 
@@ -42,7 +42,13 @@ This is literally how every other business works, but software was literally jus
 
 ## B2C SaaS
 
-Last one we have is B2C. I think B2C is also a meritocracy, people either use your app or they don't. If we take the same scenario of an AI agent that replicates your SaaS and set it up to auto-pr and deploy changes every time you update your SaaS's website, does the moat disappear like B2B? I would say no. It's like you have The Script, you have the vision, but your competitors don't. They will always be late to you. People themselves are cultish--they're brand loyal. If you build a good consumer app, the rate at which you will become successful is, I think, faster than the rate of someone copying you. This time will decrease but it's not like someone is going to have an agent watching app store publications, becoming their first user, copying it, and selling whatever they are at 20% less. This is very far away on the AGI timescale for me. Even then good product vision equals good marketing, good ethos, and a built brand. People are cultish. Cults, belief, agenda, and narrative are the first documented evidence of intellectual human behavior. Does this mean distribution is king? Well that'd certainly be reductive. "Distribution" is predicated on growth (first mover, network effects) which is predicated on product which is predicated on vision--all this to say, vision (and the individual) still reigns supreme. Just make a good product. The reason it won't fall victim to the tech focused B2B SaaS problems is because your business doesn't serve the AI models, it isn't quantifiable. There is no clear and communicable maxima for your product. People use it because they like it. I think it would be hard for AI to produce art in such a progressive way (ie, to have the "vision").[4][5] 
+Last one we have is B2C. I think B2C is also a meritocracy, people either use your app or they don't. If we take the same scenario of an AI agent that replicates your SaaS and set it up to auto-pr and deploy changes every time you update your SaaS's website, does the moat disappear like B2B? I would say no. 
+
+It's like you have The Script, you have the vision, but your competitors don't. They will always be late to you. People themselves are cultish--they're brand loyal. If you build a good consumer app, the rate at which you will become successful is, I think, faster than the rate of someone copying you.[4] B2B businesses generally solve one problem well, their offerings don't really evolve (or rather, their customer's usecase doesn't really evolve), so people generally don't have a need or desire to be loyal to your brand. They know what they want and they will pay the minimum to solve their problem. 
+
+In B2C user acquisition and monetization is different. People don't really know what they want, and are mainly driven by psycology (see the many tarpit consumer app ideas that are there). Good product vision equals good marketing, good ethos, and good brand perception. People are cultish. Cults, belief, agenda, and narrative are the first documented evidence of intellectual human behavior. 
+
+Does this mean distribution is king? Well that'd certainly be reductive. "Distribution" is predicated on growth (first mover, network effects) which is predicated on product which is predicated on vision--all this to say, vision (and the individual) still reigns supreme. Just make a good product. The reason it won't fall victim to the tech focused B2B SaaS problems is because B2C businesses don't serve the AI models ruthlessly optimizing bottom line. The value add isn't so quantifiable (or rather, commodifiable[5]). There is no clear and communicable/quantifiable value prop for your product. People use it because they like it. I think it would be hard for AI to produce art in such a progressive way (ie, to have the "vision").[6]
 
 ## conclusion
 
@@ -52,9 +58,15 @@ If you want any examples (I omitted them because I don't want to speak badly abo
 
 [1] Edge case if you have some crazy technical moat other AI can't touch. But the common advice to build MCP integrations probably won't pan out the VCs think. 
 
-[2] I am not going to act like this is completely the belief I action on. This is based on my speculation into the future. The highest signal thing to do now is to solve real problems for real people--if you do it well enough you could probably grab some cash on the way down. 
+[2] I am not going to act like this is completely the belief I action on. This is based on my speculation into the future. The highest signal thing to do now is to solve real problems for real people--if you do it well enough you could probably grab some cash on the way down. This is just my lossy world model for the future. 
 
 [3]  Do you think that's crazy? I personally don't. Check the IP of the server this website is running on. Is it in the cloud? Maybe once everyone starts panicking that they're losing money due the competitors pricing better I can start a consulting company and take them to bare metal before the AI is able to. 
 
-[4] Even if it can, you'd be so far away none of this article would make any sense. Like we would be playing such a different game if the AI could scale its intelligence along this axis. It's like how [Rayleigh–Jeans law](https://en.wikipedia.org/wiki/Rayleigh%E2%80%93Jeans_law "Rayleigh–Jeans law") says if we have super small wavelength light, it would emit near infinite energy. If this happens everything kind of blows up and we would need to find our version of Plank's length to make sense of our stimuli. If the AI was truly better than us, we would reach some kind of maxima that is not grokkable to anyone right now. 
+[4] This time will decrease but it's not like someone is going to have an agent watching app store publications, becoming their first user, copying it, and selling whatever they are at 20% less. This is very far away on the AGI timescale for me. 
+
+[5] Who knows, maybe we will be able to trade futures on cloud compute/LLM tokens/SaaS?
+
+[6] Even if it can, you'd be so far away none of this article would make any sense. Like we would be playing such a different game if the AI could scale its intelligence along this axis. It's like how [Rayleigh–Jeans law](https://en.wikipedia.org/wiki/Rayleigh%E2%80%93Jeans_law "Rayleigh–Jeans law") says if we have super small wavelength light, it would emit near infinite energy. If this happens everything kind of blows up and we would need to find our version of Plank's length to make sense of our stimuli. If the AI was truly better than us, we would reach some kind of maxima that is not grokkable to anyone right now. 
+
+I would also guess that even if we get an AI that has "vision", it won't be able to conceptually generalize "vision". For example, you may be able to ask it "make a million dollar SaaS", but it wold probably only be able to do that once.  
 
