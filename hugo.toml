@@ -26,11 +26,20 @@ theme = 'hugo-bearblog'
   # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
   title = "Hugo ʕ•ᴥ•ʔ Bear"
 
+  math = true
+
 [outputs]
   home = ["HTML", "RSS"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   term = ["HTML", "RSS"]
 
-[markup.goldmark.renderer]
-unsafe = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+
