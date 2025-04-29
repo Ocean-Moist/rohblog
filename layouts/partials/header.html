@@ -3,12 +3,11 @@
   <div class="header-content">
     <h1>{{ .Site.Title }}</h1>
     <nav>
+      <a href="{{ "" | relURL }}">Home</a>
       {{ range .Site.Menus.main }}
       <a href="{{ .URL }}">{{ .Name }}</a>
       {{ end }}
-      {{ with .Site.GetPage "/blog" }}
-      <a href="{{ .Permalink }}">Blog</a>
-      {{ end }}
+      <a href="{{ "blog" | relURL }}">Blog</a>
     </nav>
   </div>
   <button id="theme-toggle" aria-label="Toggle dark mode"></button>
@@ -20,12 +19,11 @@
       <h2>{{ .Site.Title }}</h2>
     </a>
     <nav>
+      <a href="{{ "" | relURL }}">Home</a>
       {{ range .Site.Menus.main }}
       <a href="{{ .URL }}">{{ .Name }}</a>
       {{ end }}
-      {{ with .Site.GetPage "/blog" }}
-      <a href="{{ .Permalink }}">Blog</a>
-      {{ end }}
+      <a href="{{ "blog" | relURL }}">Blog</a>
     </nav>
   </div>
   <button id="theme-toggle" aria-label="Toggle dark mode"></button>
