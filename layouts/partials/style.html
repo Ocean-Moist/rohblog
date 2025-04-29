@@ -159,19 +159,18 @@
   
   /* Theme toggle button */
   #theme-toggle {
-    position: fixed;
-    top: 20px;
-    right: 20px;
-    width: 20px;
-    height: 20px;
+    width: 16px;
+    height: 16px;
     border-radius: 50%;
     background-color: var(--heading-color);
     border: none;
     cursor: pointer;
     transition: transform 0.3s ease, background-color 0.3s ease;
-    z-index: 1000;
     padding: 0;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+    margin-left: 15px;
+    display: inline-block;
+    vertical-align: middle;
   }
   
   #theme-toggle:hover {
@@ -185,7 +184,28 @@
   
   .header-content {
     display: flex;
-    justify-content: space-between;
-    align-items: baseline;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+
+  .title-area {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+
+  .title-area h1, .title-area h2 {
+    margin: 0;
+    margin-right: 10px;
+  }
+  
+  nav {
+    margin-top: 5px;
+  }
+  
+  nav a {
+    font-size: 0.9em;
+    text-transform: lowercase;
+    margin-right: 15px;
   }
 </style>

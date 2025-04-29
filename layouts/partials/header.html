@@ -1,32 +1,36 @@
 {{ if .IsHome }}
 <header>
   <div class="header-content">
-    <h1>{{ .Site.Title }}</h1>
+    <div class="title-area">
+      <h1>{{ .Site.Title }}</h1>
+      <button id="theme-toggle" aria-label="Toggle dark mode"></button>
+    </div>
     <nav>
-      <a href="{{ "" | relURL }}">Home</a>
+      <a href="{{ "" | relURL }}">home</a>
       {{ range .Site.Menus.main }}
-      <a href="{{ .URL }}">{{ .Name }}</a>
+      <a href="{{ .URL }}">{{ lower .Name }}</a>
       {{ end }}
-      <a href="{{ "blog" | relURL }}">Blog</a>
+      <a href="{{ "blog" | relURL }}">blog</a>
     </nav>
   </div>
-  <button id="theme-toggle" aria-label="Toggle dark mode"></button>
 </header>
 {{ else }}
 <header>
   <div class="header-content">
-    <a class="title" href="{{ .Site.BaseURL }}">
-      <h2>{{ .Site.Title }}</h2>
-    </a>
+    <div class="title-area">
+      <a class="title" href="{{ .Site.BaseURL }}">
+        <h2>{{ .Site.Title }}</h2>
+      </a>
+      <button id="theme-toggle" aria-label="Toggle dark mode"></button>
+    </div>
     <nav>
-      <a href="{{ "" | relURL }}">Home</a>
+      <a href="{{ "" | relURL }}">home</a>
       {{ range .Site.Menus.main }}
-      <a href="{{ .URL }}">{{ .Name }}</a>
+      <a href="{{ .URL }}">{{ lower .Name }}</a>
       {{ end }}
-      <a href="{{ "blog" | relURL }}">Blog</a>
+      <a href="{{ "blog" | relURL }}">blog</a>
     </nav>
   </div>
-  <button id="theme-toggle" aria-label="Toggle dark mode"></button>
 </header>
 {{ end }}
 
