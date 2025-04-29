@@ -159,8 +159,8 @@
   
   /* Theme toggle button */
   #theme-toggle {
-    width: 16px;
-    height: 16px;
+    width: 18px;
+    height: 18px;
     border-radius: 50%;
     background-color: var(--heading-color);
     border: none;
@@ -168,9 +168,9 @@
     transition: transform 0.3s ease, background-color 0.3s ease;
     padding: 0;
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
-    margin-left: 15px;
     display: inline-block;
-    vertical-align: middle;
+    flex-basis: 18px;
+    flex-shrink: 0;
   }
   
   #theme-toggle:hover {
@@ -186,26 +186,38 @@
     display: flex;
     flex-direction: column;
     margin-bottom: 20px;
+    width: 100%;
+    text-align: center;
   }
 
   .title-area {
     display: flex;
+    justify-content: space-between;
     align-items: center;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+  }
+
+  .left-spacer {
+    flex-basis: 18px;
+    flex-shrink: 0;
   }
 
   .title-area h1, .title-area h2 {
     margin: 0;
-    margin-right: 10px;
+    flex-grow: 1;
+    text-align: center;
   }
   
   nav {
-    margin-top: 5px;
+    margin-top: 10px;
+    text-align: center;
   }
   
   nav a {
-    font-size: 0.9em;
+    font-size: 1.1em;
     text-transform: lowercase;
-    margin-right: 15px;
+    margin: 0 10px;
+    display: inline-block;
   }
 </style>
