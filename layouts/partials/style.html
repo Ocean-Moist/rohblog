@@ -198,26 +198,27 @@
     padding-bottom: 20px;
   }
   
-  .title-wrapper {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: relative;
-    margin-bottom: 10px;
-  }
-  
   .site-title {
-    margin: 0;
+    margin: 0 0 10px 0;
     padding: 0;
     text-align: center;
     font-size: 1.8em;
   }
   
   #theme-toggle {
-    position: absolute;
-    right: 0;
-    top: 50%;
-    transform: translateY(-50%);
+    position: fixed;
+    top: 45px;
+    right: calc(50% - 260px);
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background-color: var(--heading-color);
+    border: none;
+    cursor: pointer;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    padding: 0;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+    z-index: 100;
   }
   
   nav {
