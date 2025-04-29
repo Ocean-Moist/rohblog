@@ -1,40 +1,15 @@
-{{ if .IsHome }}
 <header>
   <div class="header-content">
-    <div class="title-area">
-      <div class="left-spacer"></div>
-      <h1>{{ .Site.Title }}</h1>
+    <div class="title-wrapper">
+      <h1 class="site-title">{{ .Site.Title }}</h1>
       <button id="theme-toggle" aria-label="Toggle dark mode"></button>
     </div>
     <nav>
       <a href="{{ "" | relURL }}">home</a>
-      {{ range .Site.Menus.main }}
-      <a href="{{ .URL }}">{{ lower .Name }}</a>
-      {{ end }}
       <a href="{{ "blog" | relURL }}">blog</a>
     </nav>
   </div>
 </header>
-{{ else }}
-<header>
-  <div class="header-content">
-    <div class="title-area">
-      <div class="left-spacer"></div>
-      <a class="title" href="{{ .Site.BaseURL }}">
-        <h2>{{ .Site.Title }}</h2>
-      </a>
-      <button id="theme-toggle" aria-label="Toggle dark mode"></button>
-    </div>
-    <nav>
-      <a href="{{ "" | relURL }}">home</a>
-      {{ range .Site.Menus.main }}
-      <a href="{{ .URL }}">{{ lower .Name }}</a>
-      {{ end }}
-      <a href="{{ "blog" | relURL }}">blog</a>
-    </nav>
-  </div>
-</header>
-{{ end }}
 
 <script>
   // Check for saved theme preference or use browser preference
