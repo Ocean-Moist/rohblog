@@ -1,13 +1,15 @@
-<header>
-  <div class="header-content">
-    <h1 class="site-title">{{ .Site.Title }}</h1>
-    <nav>
-      <a href="{{ "" | relURL }}">home</a>
-      <a href="{{ "blog" | relURL }}">blog</a>
-    </nav>
-  </div>
-</header>
-<button id="theme-toggle" aria-label="Toggle dark mode"></button>
+<div class="header-wrapper">
+  <header>
+    <div class="header-content">
+      <h1 class="site-title">{{ .Site.Title }}</h1>
+      <nav>
+        <a href="{{ "" | relURL }}">home</a>
+        <a href="{{ "blog" | relURL }}">blog</a>
+      </nav>
+    </div>
+  </header>
+  <button id="theme-toggle" aria-label="Toggle dark mode"></button>
+</div>
 
 <script>
   // Check for saved theme preference or use browser preference

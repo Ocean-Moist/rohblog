@@ -186,6 +186,12 @@
     transform: scale(1.1);
   }
   
+  .header-wrapper {
+    position: relative;
+    margin-bottom: 30px;
+    width: 100%;
+  }
+  
   header {
     position: relative;
     margin-bottom: 0;
@@ -206,7 +212,7 @@
   }
   
   #theme-toggle {
-    position: fixed;
+    position: absolute;
     top: 45px;
     right: calc(50% - 260px);
     width: 18px;
@@ -218,7 +224,6 @@
     transition: transform 0.3s ease, background-color 0.3s ease;
     padding: 0;
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
-    z-index: 100;
   }
   
   nav {
