@@ -1,0 +1,60 @@
+{{ if .IsHome }}
+<header>
+  <div class="header-content">
+    <h1>{{ .Site.Title }}</h1>
+    <nav>
+      {{ range .Site.Menus.main }}
+      <a href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+      {{ with .Site.GetPage "/blog" }}
+      <a href="{{ .Permalink }}">Blog</a>
+      {{ end }}
+    </nav>
+  </div>
+  <button id="theme-toggle" aria-label="Toggle dark mode"></button>
+</header>
+{{ else }}
+<header>
+  <div class="header-content">
+    <a class="title" href="{{ .Site.BaseURL }}">
+      <h2>{{ .Site.Title }}</h2>
+    </a>
+    <nav>
+      {{ range .Site.Menus.main }}
+      <a href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+      {{ with .Site.GetPage "/blog" }}
+      <a href="{{ .Permalink }}">Blog</a>
+      {{ end }}
+    </nav>
+  </div>
+  <button id="theme-toggle" aria-label="Toggle dark mode"></button>
+</header>
+{{ end }}
+
+<script>
+  // Check for saved theme preference or use browser preference
+  const getTheme = () => {
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme) {
+      return savedTheme;
+    }
+    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  };
+
+  // Apply the current theme
+  const applyTheme = (theme) => {
+    document.documentElement.setAttribute('data-theme', theme);
+    localStorage.setItem('theme', theme);
+  };
+
+  // Initialize with current theme
+  applyTheme(getTheme());
+
+  // Set up toggle button
+  document.getElementById('theme-toggle').addEventListener('click', () => {
+    const currentTheme = getTheme();
+    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    applyTheme(newTheme);
+  });
+</script>

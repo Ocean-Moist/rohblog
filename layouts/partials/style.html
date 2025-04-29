@@ -1,25 +1,58 @@
 <style>
+  :root {
+    --bg-color: #fff;
+    --text-color: #444;
+    --heading-color: #222;
+    --link-color: #3273dc;
+    --visited-link-color: #8b6fcb;
+    --code-bg: #f2f2f2;
+    --code-color: #222;
+    --blockquote-bg: #f9f9f9;
+    --blockquote-border: #999;
+    --blockquote-color: #222;
+    --helptext-color: #777;
+    --input-bg: #fff;
+    --input-color: #333;
+  }
+
+  [data-theme="dark"] {
+    --bg-color: #333;
+    --text-color: #ddd;
+    --heading-color: #eee;
+    --link-color: #8cc2dd;
+    --visited-link-color: #9d86d9;
+    --code-bg: #777;
+    --code-color: #ddd;
+    --blockquote-bg: #3a3a3a;
+    --blockquote-border: #666;
+    --blockquote-color: #ccc;
+    --helptext-color: #aaa;
+    --input-bg: #252525;
+    --input-color: #ddd;
+  }
+
   body {
     font-family: Verdana, sans-serif;
     margin: auto;
     padding: 40px; /* Increased padding */
     max-width: 900px; /* Increased max-width */
     text-align: left;
-    background-color: #fff;
+    background-color: var(--bg-color);
     word-wrap: break-word;
     overflow-wrap: break-word;
     line-height: 1.5;
-    color: #444;
+    color: var(--text-color);
+    transition: background-color 0.3s ease, color 0.3s ease;
   }
 
   h1, h2, h3, h4, h5, h6, strong, b {
-    color: #222;
+    color: var(--heading-color);
     margin-top: 1.5em; /* Increased top margin */
     margin-bottom: 0.8em; /* Increased bottom margin */
   }
 
   a {
-    color: #3273dc;
+    color: var(--link-color);
   }
 
   .title {
@@ -58,11 +91,11 @@
 
   code {
     padding: 2px 5px;
-    background-color: #f2f2f2;
+    background-color: var(--code-bg);
+    color: var(--code-color);
   }
 
   pre code {
-    color: #222;
     display: block;
     padding: 20px;
     white-space: pre-wrap;
@@ -81,12 +114,12 @@
   }
 
   blockquote {
-    border-left: 3px solid #999; /* Slightly thicker border */
-    color: #222;
+    border-left: 3px solid var(--blockquote-border); /* Slightly thicker border */
+    color: var(--blockquote-color);
     padding: 0.8em 1.2em; /* Increased padding */
     margin: 1.5em 0; /* Added vertical margin */
     font-style: italic;
-    background-color: #f9f9f9; /* Light background */
+    background-color: var(--blockquote-bg); /* Light background */
     display: block; /* Make it block-level instead of inlay */
   }
 
@@ -121,52 +154,38 @@
   }
 
   ul.blog-posts li a:visited {
-    color: #8b6fcb;
+    color: var(--visited-link-color);
   }
-
-  @media (prefers-color-scheme: dark) {
-    body {
-      background-color: #333;
-      color: #ddd;
-    }
-
-    h1, h2, h3, h4, h5, h6, strong, b {
-      color: #eee;
-    }
-
-    a {
-      color: #8cc2dd;
-    }
-
-    code {
-      background-color: #777;
-    }
-
-    pre code {
-      color: #ddd;
-    }
-
-    blockquote {
-      color: #ccc;
-      background-color: #3a3a3a; /* Dark mode background */
-      border-left: 3px solid #666;
-    }
-
-    textarea, input {
-      background-color: #252525;
-      color: #ddd;
-    }
-
-    .helptext {
-      color: #aaa;
-    }
-    
-    div.highlight pre {
-      background-color: initial;
-    }
-    
-    div.highlight code {
-      background-color: unset;
-    }
+  
+  /* Theme toggle button */
+  #theme-toggle {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: var(--heading-color);
+    border: none;
+    cursor: pointer;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    z-index: 1000;
+    padding: 0;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  #theme-toggle:hover {
+    transform: scale(1.1);
+  }
+  
+  header {
+    position: relative;
+    margin-bottom: 40px;
+  }
+  
+  .header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
   }
 </style>
