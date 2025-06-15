@@ -5,7 +5,7 @@ date = "2025-03-07"
 
 tl;dr: There's more to the story than "distribution is the last moat". 
 
-It's clear that the price/difficultly of creating software is going down while intelligence is increasing. I don't yet think people have internalized the cascading effects of this on the way software companies monetize, and how that is affected by the speed of increasing intelligence.
+It's clear that both the price/difficultly of creating software and the cost of intelligence is going down. I don't yet think people have internalized the cascading effects of this on the way software companies monetize (or really in general), especially in tandem with the speed of increasing intelligence.
 
 I think there are generally three types of software companies:
 
@@ -17,22 +17,13 @@ I think each will grow into different dynamics.
 
 ## traditional B2B SaaS
 
-The "traditional" B2B SaaS is perhaps the slowest to change. Most (non-tech) business will be very (relatively) slow to react and co-opt AI. There is plenty of money and those types of businesses, due to their operational complexity, are built via relationships. In other words, it's heavily entrenched. The best thing here would be Palantir style FSDEs instead of a salesforce or general platform. I also doubt there would be any sort of internal technical team (even though that's possible), it would be cheaper to outsource them to external AI agents (or people in front of the AI agents), than maintain one. It's like how all big brands have an agency do their website. However we might (definitely will) get another wave of the PE virus that deconstructs businesses and rebuilds them with AI and no soul for margins sake. 
+The "traditional" B2B SaaS is perhaps the slowest to change. Most (non-tech) business will be very (relatively) slow to react and co-opt AI. There is plenty of money in those types of businesses. Due to their operational complexity, most value is built via relationships. In other words, it's heavily entrenched. The best approach here would be Palantir style FDSEs instead of a salesforce or general platform. Adapting to the specific needs of the business with a general industry specific playbook/data/USP. I also doubt these companies would maintain an internal technical team (even though that's possible), it would be cheaper to outsource them to external AI agents (or people in front of the AI agents), than maintain one. It's like how all big brands have an agency do their website. However we might (definitely will) get another wave of PE firms deconstructing businesses and rebuilding them with AI from first principles. Because many of these PE guys are not technical, and most technical people (that understand AI) don't understand business, most will fail. Though many will succeed quietly.
 
 ## tech focused B2B SaaS
 
-B2B SaaS companies that sell to other tech companies are probably the most threatened by AI. People are generally blind to this because it worked so well last cycle. I think these software/tech companies will come down to reasonable multiples as their business gets commodified. People, right now, aim to build software that the ai *uses*, not software the ai *replaces* (ie, AI "native"), but they don't realize there is no money in software ai uses either. You can kind of see this on openrouter--the cheapest/fastest provider gets the business. Because of commodification, the most used tech will be open source because it's the cheapest (free).[1] Imagine I use an AI agent to replicate your SaaS then set it up to auto-pr and deploy changes every time you update your SaaS's website? What moat do you have? If I am cheaper I will win. Of course, the effectiveness of this scales with the effectiveness of AI.
+B2B SaaS companies that sell to other tech companies are probably the most threatened by AI. People are generally blind to this because it worked so well last cycle. I think these software/tech companies will come down to reasonable multiples as their business gets commodified. People, right now, are starting to aim to build software that the AI *uses*, not software the AI *replaces* (ie, AI "native"), but they don't realize there is no money in software AI uses either. You can kind of see this on openrouter--the cheapest/fastest provider gets the business. Because of commodification, the most used tech will be open source because it's the cheapest (free).[1] Imagine I use an AI agent to replicate your SaaS then set it up to auto-pr and deploy changes every time you update your SaaS's website? What moat do you have? If I am cheaper I will win. Of course, the effectiveness of this scales with the effectiveness of AI.
 
-The question right now is: How deep into the stack will AI be able to go to minimize cost? How many middle men can it cut through? How quick? Let's run through some levels:
-
-1. How long till it can use firebase by itself and quickly make + deploy an app?
-2. Use AWS? 
-3. Connect to Hetzner and role k8s + postgresql?
-4. Control a robot in a colo datacenter + picks up stuff on facebook marketplace or via The Global Superintelligence Hivemind? 
-
-In this last scenario all the software is *free*. No one is getting paid out. The question is how quickly we get there (or if we do at all). I think 1. will be done by late 2026. We will have non-technical founders build and deploy apps without having to understand anything. I think 2. (more complicated apps built on "deeper" infra) will be done by 2027, and 3. soon after. Who will create the open source AI app that takes companies to bare metal? Probably someone who owns the thinnest possible wrapper over the bare metal.[2] You can place bets on where AI intelligence goes by creating startups that abstract away operational complexity at different levels and present different ways for the AI to eventually deploy and scale apps. 
-
- There are literally no middlemen getting payed software here. All the software companies won't need other software companies.[3] I think this is how the bubble will "burst":
+There will be literally no middlemen getting payed for software here. All the software companies won't need other software companies.[3] I think this is how the bubble will "burst":
 
 1. Mass competition arises. Starts small, grows exponentially. 
 2. Forced to fight on cost 
@@ -54,13 +45,11 @@ Does this mean distribution is king? Well that'd certainly be reductive. "Distri
 
 The big issue here is that AI development is nonlinear. Some scenarios here are much harder to achieve than we (or I) think and some may be easier. If you build "an AWS to be used by AI agents" you're gambling on how good AI agents will get. If you really do any tech focussed B2B SaaS I think 10 years from now you'll be gone (or making very little). I also think 2-5 years from now many of these companies will reach billions in valuation. 
 
-If you want any examples (I omitted them because I don't want to speak badly about any current company) or want to tell me I'm wrong you can email me at: rohanganapa (at) gmail (dot) com. 
-
-[1] Edge case if you have some crazy technical moat other AI can't touch. But the common advice to build MCP integrations probably won't pan out the VCs think. 
+[1] Edge case if you have some crazy technical moat other AI can't touch. But the common advice to build MCP integrations probably won't pan out the ways VCs think. 
 
 [2] I am not going to act like this is completely the belief I action on. This is based on my speculation into the future. The highest signal thing to do now is to solve real problems for real people--if you do it well enough you could probably grab some cash on the way down. This is just my lossy world model for the future. 
 
-[3]  Do you think that's crazy? I personally don't. Check the IP of the server this website is running on. Is it in the cloud? Maybe once everyone starts panicking that they're losing money due the competitors pricing better I can start a consulting company and take them to bare metal before the AI is able to. 
+[3] Do you think that's crazy? I personally don't. Check the IP of the server this website is running on. Is it in the cloud? Maybe once everyone starts panicking that they're losing money due the competitors pricing better I can start a consulting company and take them to bare metal before the AI is able to. 
 
 [4] This time will decrease but it's not like someone is going to have an agent watching app store publications, becoming their first user, copying it, and selling whatever they are at 20% less. This is very far away on the AGI timescale for me. 
 

@@ -1,15 +1,12 @@
-## [fund me/what i'm working on (consumer AI)](https://rohan.ga/blog/bet_on_me)
-
 ## whoami
-- builder/hacker/artist
+- creator, resurrecting the art of product
 - email me: **rohanganapa [at] gmail [dot] com**
-- working @ [rhogpt.ai](https://rhogpt.ai)
+- working @ [rhogpt.ai](https://rhogpt.ai) on consumer AI
 
 ## interests
+- **altering thinking at scale** 
 - pure math
 - philosophy (deleuze, heidegger, adi shankara, or anyone)
-- art, in all forms
-- **altering thinking at scale** 
 
 ## best essays
 - [On Zero Sum Games (The Informational Meta-Game)](https://rohan.ga/blog/zero_game/)

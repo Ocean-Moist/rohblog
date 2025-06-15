@@ -31,7 +31,7 @@ $$
 f_{\text{max}}(B,N,\varepsilon,\alpha)=\frac{\ln B}{\varepsilon N}\\!\left(1-\frac{q_\alpha}{\sqrt{\pi\ln B}}\right)\quad\text{(see A 4)}.
 $$
 
-_If the odds deviate far from even-money, replace the 1 in the confidence term by $k(\lambda)=\sqrt{p\,g^{2}+(1-p)}$ (see A 4); safer bets enlarge the envelope, long-shots shrink it._
+_If the odds deviate far from even-money, replace the 1 in the confidence term by $k(\lambda)=\sqrt{p\\\,g^{2}+(1-p)}$ (see A 4); safer bets enlarge the envelope, long-shots shrink it._
 
 > **Reality check.** Real tables impose \\$5–\\$10 minimums and \\$1 chip increments. If the calculated stake falls below the floor you must round **up** and accept a slightly lower survival confidence (exact effect in A 4).
 
@@ -43,8 +43,8 @@ _If the odds deviate far from even-money, replace the 1 in the confidence term b
 
 ## flexible betting within the envelope
 
-Inside the envelope, every $(p,g)$ pair must satisfy the constant-edge line  
-$$p\,g-(1-p)=-\varepsilon$$  
+Inside the envelope, every $(p,g)$ pair (where p is win-probability and g is net profit multiple) must satisfy the constant-edge line  
+$$p\\,g-(1-p)=-\varepsilon$$  
 (proof in **A 1**). To keep things intuitive we expose just two knobs:
 
 * **λ (lambda)** — risk/reward slider. λ = 0 ≈ coin-flip; large λ = long-shot jackpots.
@@ -110,7 +110,7 @@ Also I'm building in consumer AI and you should [consider funding me](https://ro
 The house edge is the *negative* expected value per \\$1 staked:
 
 $$
-\mathbb{E}[\text{net}] \\;=\\; p\,g \\;-\\;(1-p) \\;=\\; -\varepsilon,
+\mathbb{E}[\text{net}] \\;=\\; p\\,g \\;-\\;(1-p) \\;=\\; -\varepsilon,
 \tag{A 1}
 $$
 
@@ -138,7 +138,7 @@ $$
 Plug (A 3) into (A 1):
 
 $$
-p\,g-(1-p)=
+p\\,g-(1-p)=
 \frac{1-\varepsilon}{1+\lambda}\Bigl(1+\tfrac{\lambda}{\varepsilon}\Bigr)-\Bigl(1-\frac{1-\varepsilon}{1+\lambda}\Bigr)
 =-\varepsilon.
 $$
@@ -154,7 +154,7 @@ When you wager a **fraction $f$** of the current bankroll $B_t$:
 $$
 B\_{t+1}=B\_t
 \begin{cases}
-  1+f\,g & \text{w.p. } p \\\\[6pt]
+  1+f\\,g & \text{w.p. } p \\\\[6pt]
   1-f    & \text{w.p. } 1-p
 \end{cases}
 $$
@@ -186,7 +186,7 @@ $$
 
 $$
 \sigma^{2}=\mathbb{V}[\Delta\ln B]
-=f^{2}\\!\bigl[p\,g^{2}+(1-p)\bigr]+\mathcal{O}(f^{3})\\;
+=f^{2}\\!\bigl[p\\,g^{2}+(1-p)\bigr]+\mathcal{O}(f^{3})\\;
 \approx\\;f^{2}\quad(\text{edge has no first-order effect}).
 \tag{A 7}
 $$
@@ -223,9 +223,9 @@ $T\sim\operatorname{IG}\bigl(\tfrac{\ln B}{|\mu|},\tfrac{\sigma^{2}}{\mu^{2}}\bi
 Its variance:
 
 $$
-\operatorname{Var}(T)=\frac{\sigma^{2}\,(\ln B)}{\mu^{3}}
-=\frac{f^{2}\,(\ln B)}{\pi\,\varepsilon^{3}f^{3}}
-=\frac{\ln B}{\pi\,\varepsilon^{3}f}.
+\operatorname{Var}(T)=\frac{\sigma^{2}\\,(\ln B)}{\mu^{3}}
+=\frac{f^{2}\\,(\ln B)}{\pi\\,\varepsilon^{3}f^{3}}
+=\frac{\ln B}{\pi\\,\varepsilon^{3}f}.
 \tag{A 9}
 $$
 
@@ -236,7 +236,7 @@ Apply one-sided Chebyshev (or a Normal tail bound, practically identical for $\a
 $$
 \Pr\\!\Bigl[T_{\text{ruin}}<N\Bigr]
 \\;\le\\;
-\frac{\sqrt{\operatorname{Var}(T)}}{q_\alpha\,\mathbb{E}[T]}
+\frac{\sqrt{\operatorname{Var}(T)}}{q_\alpha\\,\mathbb{E}[T]}
 \\;\le\\;1-\alpha.
 $$
 
@@ -246,7 +246,7 @@ $$
 \boxed{\\;
 f\\;\le\\;
 \frac{\ln B}{\varepsilon N}
-\Bigl(1-\frac{q_\alpha}{\sqrt{\pi\,\ln B}}\Bigr)
+\Bigl(1-\frac{q_\alpha}{\sqrt{\pi\\,\ln B}}\Bigr)
 \equiv f_{\max}(B,N,\varepsilon,\alpha).}
 \tag{A 10}
 $$
@@ -281,8 +281,8 @@ For a biased random walk (GBM analogue) the probability of hitting the **upper**
 
 $$
 \Pr\bigl[B_{\text{hit}}=W_{\max}\bigr]
-=\frac{1-e^{-2\kappa\,\ln(B/W_{\min})}}
-      {1-e^{-2\kappa\,\ln(W_{\max}/W_{\min})}},
+=\frac{1-e^{-2\kappa\\,\ln(B/W_{\min})}}
+      {1-e^{-2\kappa\\,\ln(W_{\max}/W_{\min})}},
 \qquad
 \kappa=\frac{|\mu|}{\sigma^{2}/2}.
 $$
@@ -320,12 +320,12 @@ U(\lambda,u) \\;=\\;
 w_1\sigma(\lambda,u) - w_2\mu(u),
 $$
 
-with $\sigma\approx f\,\sqrt{p(\lambda)g(\lambda)^{2}+(1-p(\lambda))}$ and $\mu=-\varepsilon f$, $f=u\,f_{\max}$.
+with $\sigma\approx f\\,\sqrt{p(\lambda)g(\lambda)^{2}+(1-p(\lambda))}$ and $\mu=-\varepsilon f$, $f=u\\,f_{\max}$.
 
 Plugging gives
 
 $$
-U(\lambda,u) = u\,f_{\max}\,
+U(\lambda,u) = u\\,f_{\max}\\,
 \bigl[
 w_1\sqrt{p(\lambda)g(\lambda)^{2}+(1-p(\lambda))}
 \\;+\\;
